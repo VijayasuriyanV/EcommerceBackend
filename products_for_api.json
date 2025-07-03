@@ -9,10 +9,7 @@
       "discountPercentage": 10.48,
       "rating": 2.56,
       "stock": 99,
-      "tags": [
-        "beauty",
-        "mascara"
-      ],
+      "tags": ["beauty", "mascara"],
       "brand": "Essence",
       "sku": "BEA-ESS-ESS-001",
       "weight": 4,
@@ -55,10 +52,8 @@
         "barcode": "5784719087687",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/1_2.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/1_1.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/1_2.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/1_1.webp"
     },
     {
       "id": 2,
@@ -69,10 +64,7 @@
       "discountPercentage": 18.19,
       "rating": 2.86,
       "stock": 34,
-      "tags": [
-        "beauty",
-        "eyeshadow"
-      ],
+      "tags": ["beauty", "eyeshadow"],
       "brand": "Glamour Beauty",
       "sku": "BEA-GLA-EYE-002",
       "weight": 9,
@@ -115,10 +107,8 @@
         "barcode": "9170275171413",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/2_4.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/2_3.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/2_4.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/2_3.webp"
     },
     {
       "id": 3,
@@ -129,10 +119,7 @@
       "discountPercentage": 9.84,
       "rating": 4.64,
       "stock": 89,
-      "tags": [
-        "beauty",
-        "face powder"
-      ],
+      "tags": ["beauty", "face powder"],
       "brand": "Velvet Touch",
       "sku": "BEA-VEL-POW-003",
       "weight": 8,
@@ -175,10 +162,8 @@
         "barcode": "8418883906837",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/3_6.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/3_5.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/3_6.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/3_5.webp"
     },
     {
       "id": 4,
@@ -189,10 +174,7 @@
       "discountPercentage": 12.16,
       "rating": 4.36,
       "stock": 91,
-      "tags": [
-        "beauty",
-        "lipstick"
-      ],
+      "tags": ["beauty", "lipstick"],
       "brand": "Chic Cosmetics",
       "sku": "BEA-CHI-LIP-004",
       "weight": 1,
@@ -235,10 +217,8 @@
         "barcode": "9467746727219",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/4_8.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/4_7.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/4_8.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/4_7.webp"
     },
     {
       "id": 5,
@@ -249,10 +229,7 @@
       "discountPercentage": 11.44,
       "rating": 4.32,
       "stock": 79,
-      "tags": [
-        "beauty",
-        "nail polish"
-      ],
+      "tags": ["beauty", "nail polish"],
       "brand": "Nail Couture",
       "sku": "BEA-NAI-NAI-005",
       "weight": 8,
@@ -295,10 +272,8 @@
         "barcode": "4063010628104",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/5_10.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/5_9.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/5_10.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/5_9.webp"
     },
     {
       "id": 6,
@@ -309,10 +284,7 @@
       "discountPercentage": 1.89,
       "rating": 4.37,
       "stock": 29,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Calvin Klein",
       "sku": "FRA-CAL-CAL-006",
       "weight": 7,
@@ -356,11 +328,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/6_12.jpg",
-        "http://localhost:5000/api/images/6_11.jpg",
-        "http://localhost:5000/api/images/6_13.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_12.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_11.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_13.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/6_14.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_14.webp"
     },
     {
       "id": 7,
@@ -371,10 +343,7 @@
       "discountPercentage": 16.51,
       "rating": 4.26,
       "stock": 58,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Chanel",
       "sku": "FRA-CHA-CHA-007",
       "weight": 7,
@@ -418,11 +387,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/7_18.jpg",
-        "http://localhost:5000/api/images/7_17.jpg",
-        "http://localhost:5000/api/images/7_16.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_18.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_17.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_16.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/7_15.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_15.webp"
     },
     {
       "id": 8,
@@ -433,10 +402,7 @@
       "discountPercentage": 14.72,
       "rating": 3.8,
       "stock": 98,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Dior",
       "sku": "FRA-DIO-DIO-008",
       "weight": 4,
@@ -480,11 +446,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/8_20.jpg",
-        "http://localhost:5000/api/images/8_22.jpg",
-        "http://localhost:5000/api/images/8_21.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_20.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_22.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_21.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/8_19.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_19.webp"
     },
     {
       "id": 9,
@@ -495,10 +461,7 @@
       "discountPercentage": 0.62,
       "rating": 3.96,
       "stock": 4,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Dolce & Gabbana",
       "sku": "FRA-DOL-DOL-009",
       "weight": 6,
@@ -542,11 +505,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/9_25.jpg",
-        "http://localhost:5000/api/images/9_24.jpg",
-        "http://localhost:5000/api/images/9_26.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_25.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_24.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_26.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/9_23.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_23.webp"
     },
     {
       "id": 10,
@@ -557,10 +520,7 @@
       "discountPercentage": 14.39,
       "rating": 2.74,
       "stock": 91,
-      "tags": [
-        "fragrances",
-        "perfumes"
-      ],
+      "tags": ["fragrances", "perfumes"],
       "brand": "Gucci",
       "sku": "FRA-GUC-GUC-010",
       "weight": 7,
@@ -604,11 +564,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/10_30.jpg",
-        "http://localhost:5000/api/images/10_27.jpg",
-        "http://localhost:5000/api/images/10_29.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_30.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_27.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_29.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/10_28.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_28.webp"
     },
     {
       "id": 11,
@@ -619,10 +579,7 @@
       "discountPercentage": 8.57,
       "rating": 4.77,
       "stock": 88,
-      "tags": [
-        "furniture",
-        "beds"
-      ],
+      "tags": ["furniture", "beds"],
       "brand": "Annibale Colombo",
       "sku": "FUR-ANN-ANN-011",
       "weight": 10,
@@ -666,11 +623,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/11_33.jpg",
-        "http://localhost:5000/api/images/11_32.jpg",
-        "http://localhost:5000/api/images/11_34.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_33.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_32.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_34.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/11_31.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_31.webp"
     },
     {
       "id": 12,
@@ -681,10 +638,7 @@
       "discountPercentage": 14.4,
       "rating": 3.92,
       "stock": 60,
-      "tags": [
-        "furniture",
-        "sofas"
-      ],
+      "tags": ["furniture", "sofas"],
       "brand": "Annibale Colombo",
       "sku": "FUR-ANN-ANN-012",
       "weight": 6,
@@ -728,11 +682,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/12_36.jpg",
-        "http://localhost:5000/api/images/12_38.jpg",
-        "http://localhost:5000/api/images/12_37.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_36.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_38.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_37.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/12_35.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_35.webp"
     },
     {
       "id": 13,
@@ -743,10 +697,7 @@
       "discountPercentage": 19.09,
       "rating": 2.87,
       "stock": 64,
-      "tags": [
-        "furniture",
-        "bedside tables"
-      ],
+      "tags": ["furniture", "bedside tables"],
       "brand": "Furniture Co.",
       "sku": "FUR-FUR-BED-013",
       "weight": 2,
@@ -790,11 +741,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/13_40.jpg",
-        "http://localhost:5000/api/images/13_41.jpg",
-        "http://localhost:5000/api/images/13_42.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_40.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_41.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_42.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/13_39.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_39.webp"
     },
     {
       "id": 14,
@@ -805,10 +756,7 @@
       "discountPercentage": 2.01,
       "rating": 4.88,
       "stock": 26,
-      "tags": [
-        "furniture",
-        "office chairs"
-      ],
+      "tags": ["furniture", "office chairs"],
       "brand": "Knoll",
       "sku": "FUR-KNO-KNO-014",
       "weight": 10,
@@ -852,11 +800,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/14_44.jpg",
-        "http://localhost:5000/api/images/14_45.jpg",
-        "http://localhost:5000/api/images/14_46.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_44.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_45.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_46.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/14_43.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_43.webp"
     },
     {
       "id": 15,
@@ -867,10 +815,7 @@
       "discountPercentage": 8.8,
       "rating": 3.59,
       "stock": 7,
-      "tags": [
-        "furniture",
-        "bathroom"
-      ],
+      "tags": ["furniture", "bathroom"],
       "brand": "Bath Trends",
       "sku": "FUR-BAT-WOO-015",
       "weight": 10,
@@ -914,11 +859,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/15_49.jpg",
-        "http://localhost:5000/api/images/15_48.jpg",
-        "http://localhost:5000/api/images/15_50.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_49.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_48.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_50.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/15_47.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_47.webp"
     },
     {
       "id": 16,
@@ -929,9 +874,7 @@
       "discountPercentage": 12.62,
       "rating": 4.19,
       "stock": 8,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-APP-016",
       "weight": 9,
       "dimensions": {
@@ -973,10 +916,8 @@
         "barcode": "7962803553314",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/16_52.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/16_51.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/16_52.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/16_51.webp"
     },
     {
       "id": 17,
@@ -987,9 +928,7 @@
       "discountPercentage": 9.61,
       "rating": 4.47,
       "stock": 86,
-      "tags": [
-        "meat"
-      ],
+      "tags": ["meat"],
       "sku": "GRO-BRD-BEE-017",
       "weight": 10,
       "dimensions": {
@@ -1031,10 +970,8 @@
         "barcode": "5640063409695",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/17_53.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/17_54.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/17_53.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/17_54.webp"
     },
     {
       "id": 18,
@@ -1045,10 +982,7 @@
       "discountPercentage": 9.58,
       "rating": 3.13,
       "stock": 46,
-      "tags": [
-        "pet supplies",
-        "cat food"
-      ],
+      "tags": ["pet supplies", "cat food"],
       "sku": "GRO-BRD-FOO-018",
       "weight": 10,
       "dimensions": {
@@ -1090,10 +1024,8 @@
         "barcode": "1483991328610",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/18_56.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/18_55.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/18_56.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/18_55.webp"
     },
     {
       "id": 19,
@@ -1104,9 +1036,7 @@
       "discountPercentage": 13.7,
       "rating": 3.19,
       "stock": 97,
-      "tags": [
-        "meat"
-      ],
+      "tags": ["meat"],
       "sku": "GRO-BRD-CHI-019",
       "weight": 1,
       "dimensions": {
@@ -1149,10 +1079,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/19_58.jpg",
-        "http://localhost:5000/api/images/19_59.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_58.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_59.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/19_57.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_57.webp"
     },
     {
       "id": 20,
@@ -1163,9 +1093,7 @@
       "discountPercentage": 9.33,
       "rating": 4.8,
       "stock": 10,
-      "tags": [
-        "cooking essentials"
-      ],
+      "tags": ["cooking essentials"],
       "sku": "GRO-BRD-COO-020",
       "weight": 5,
       "dimensions": {
@@ -1207,10 +1135,8 @@
         "barcode": "4874727824518",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/20_61.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/20_60.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/20_61.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/20_60.webp"
     },
     {
       "id": 21,
@@ -1221,9 +1147,7 @@
       "discountPercentage": 0.16,
       "rating": 4.07,
       "stock": 84,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-CUC-021",
       "weight": 4,
       "dimensions": {
@@ -1265,10 +1189,8 @@
         "barcode": "5300066378225",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/21_63.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/21_62.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/21_63.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/21_62.webp"
     },
     {
       "id": 22,
@@ -1279,10 +1201,7 @@
       "discountPercentage": 10.27,
       "rating": 4.55,
       "stock": 71,
-      "tags": [
-        "pet supplies",
-        "dog food"
-      ],
+      "tags": ["pet supplies", "dog food"],
       "sku": "GRO-BRD-FOO-022",
       "weight": 10,
       "dimensions": {
@@ -1324,10 +1243,8 @@
         "barcode": "5906686116469",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/22_65.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/22_64.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/22_65.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/22_64.webp"
     },
     {
       "id": 23,
@@ -1338,9 +1255,7 @@
       "discountPercentage": 11.05,
       "rating": 2.53,
       "stock": 9,
-      "tags": [
-        "dairy"
-      ],
+      "tags": ["dairy"],
       "sku": "GRO-BRD-EGG-023",
       "weight": 2,
       "dimensions": {
@@ -1382,10 +1297,8 @@
         "barcode": "3478638588469",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/23_67.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/23_66.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/23_67.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/23_66.webp"
     },
     {
       "id": 24,
@@ -1396,9 +1309,7 @@
       "discountPercentage": 4.23,
       "rating": 3.78,
       "stock": 74,
-      "tags": [
-        "seafood"
-      ],
+      "tags": ["seafood"],
       "sku": "GRO-BRD-FIS-024",
       "weight": 6,
       "dimensions": {
@@ -1440,10 +1351,8 @@
         "barcode": "9595036192098",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/24_69.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/24_68.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/24_69.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/24_68.webp"
     },
     {
       "id": 25,
@@ -1454,9 +1363,7 @@
       "discountPercentage": 0.16,
       "rating": 3.25,
       "stock": 33,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-GRE-025",
       "weight": 2,
       "dimensions": {
@@ -1498,10 +1405,8 @@
         "barcode": "2365227493323",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/25_71.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/25_70.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/25_71.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/25_70.webp"
     },
     {
       "id": 26,
@@ -1512,9 +1417,7 @@
       "discountPercentage": 1,
       "rating": 3.66,
       "stock": 3,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-GRE-026",
       "weight": 7,
       "dimensions": {
@@ -1556,10 +1459,8 @@
         "barcode": "9335000538563",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/26_73.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/26_72.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/26_73.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/26_72.webp"
     },
     {
       "id": 27,
@@ -1570,9 +1471,7 @@
       "discountPercentage": 14.4,
       "rating": 3.97,
       "stock": 34,
-      "tags": [
-        "condiments"
-      ],
+      "tags": ["condiments"],
       "sku": "GRO-BRD-HON-027",
       "weight": 2,
       "dimensions": {
@@ -1614,10 +1513,8 @@
         "barcode": "6354306346329",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/27_75.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/27_74.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/27_75.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/27_74.webp"
     },
     {
       "id": 28,
@@ -1628,9 +1525,7 @@
       "discountPercentage": 8.69,
       "rating": 3.39,
       "stock": 27,
-      "tags": [
-        "desserts"
-      ],
+      "tags": ["desserts"],
       "sku": "GRO-BRD-CRE-028",
       "weight": 1,
       "dimensions": {
@@ -1673,12 +1568,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/28_77.jpg",
-        "http://localhost:5000/api/images/28_80.jpg",
-        "http://localhost:5000/api/images/28_78.jpg",
-        "http://localhost:5000/api/images/28_79.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_77.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_80.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_78.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_79.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/28_76.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_76.webp"
     },
     {
       "id": 29,
@@ -1689,9 +1584,7 @@
       "discountPercentage": 12.06,
       "rating": 3.94,
       "stock": 50,
-      "tags": [
-        "beverages"
-      ],
+      "tags": ["beverages"],
       "sku": "GRO-BRD-JUI-029",
       "weight": 1,
       "dimensions": {
@@ -1733,10 +1626,8 @@
         "barcode": "6936112580956",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/29_82.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/29_81.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/29_82.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/29_81.webp"
     },
     {
       "id": 30,
@@ -1747,9 +1638,7 @@
       "discountPercentage": 15.22,
       "rating": 4.93,
       "stock": 99,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-KIW-030",
       "weight": 5,
       "dimensions": {
@@ -1791,10 +1680,8 @@
         "barcode": "2530169917252",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/30_84.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/30_83.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/30_84.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/30_83.webp"
     },
     {
       "id": 31,
@@ -1805,9 +1692,7 @@
       "discountPercentage": 9.7,
       "rating": 3.53,
       "stock": 31,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-LEM-031",
       "weight": 3,
       "dimensions": {
@@ -1849,10 +1734,8 @@
         "barcode": "4871812433378",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/31_86.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/31_85.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/31_86.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/31_85.webp"
     },
     {
       "id": 32,
@@ -1863,9 +1746,7 @@
       "discountPercentage": 13.74,
       "rating": 2.61,
       "stock": 27,
-      "tags": [
-        "dairy"
-      ],
+      "tags": ["dairy"],
       "sku": "GRO-BRD-MIL-032",
       "weight": 5,
       "dimensions": {
@@ -1907,10 +1788,8 @@
         "barcode": "9835034508303",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/32_88.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/32_87.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/32_88.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/32_87.webp"
     },
     {
       "id": 33,
@@ -1921,9 +1800,7 @@
       "discountPercentage": 12.87,
       "rating": 4.95,
       "stock": 99,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-MUL-033",
       "weight": 5,
       "dimensions": {
@@ -1965,10 +1842,8 @@
         "barcode": "2206629068605",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/33_90.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/33_89.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/33_90.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/33_89.webp"
     },
     {
       "id": 34,
@@ -1979,10 +1854,7 @@
       "discountPercentage": 1.59,
       "rating": 4.82,
       "stock": 57,
-      "tags": [
-        "beverages",
-        "coffee"
-      ],
+      "tags": ["beverages", "coffee"],
       "sku": "GRO-BRD-NES-034",
       "weight": 6,
       "dimensions": {
@@ -2024,10 +1896,8 @@
         "barcode": "8572637994159",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/34_92.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/34_91.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/34_92.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/34_91.webp"
     },
     {
       "id": 35,
@@ -2038,9 +1908,7 @@
       "discountPercentage": 5.38,
       "rating": 4.81,
       "stock": 13,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-POT-035",
       "weight": 9,
       "dimensions": {
@@ -2082,10 +1950,8 @@
         "barcode": "3590399655074",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/35_94.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/35_93.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/35_94.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/35_93.webp"
     },
     {
       "id": 36,
@@ -2096,9 +1962,7 @@
       "discountPercentage": 7.59,
       "rating": 4.18,
       "stock": 80,
-      "tags": [
-        "health supplements"
-      ],
+      "tags": ["health supplements"],
       "sku": "GRO-BRD-PRO-036",
       "weight": 9,
       "dimensions": {
@@ -2140,10 +2004,8 @@
         "barcode": "0435397154434",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/36_96.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/36_95.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/36_96.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/36_95.webp"
     },
     {
       "id": 37,
@@ -2154,9 +2016,7 @@
       "discountPercentage": 9.9,
       "rating": 4.2,
       "stock": 82,
-      "tags": [
-        "vegetables"
-      ],
+      "tags": ["vegetables"],
       "sku": "GRO-BRD-ONI-037",
       "weight": 9,
       "dimensions": {
@@ -2198,10 +2058,8 @@
         "barcode": "4716374115631",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/37_97.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/37_98.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/37_97.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/37_98.webp"
     },
     {
       "id": 38,
@@ -2212,9 +2070,7 @@
       "discountPercentage": 9.29,
       "rating": 3.18,
       "stock": 59,
-      "tags": [
-        "grains"
-      ],
+      "tags": ["grains"],
       "sku": "GRO-BRD-RIC-038",
       "weight": 5,
       "dimensions": {
@@ -2256,10 +2112,8 @@
         "barcode": "7339757397015",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/38_100.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/38_99.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/38_100.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/38_99.webp"
     },
     {
       "id": 39,
@@ -2270,9 +2124,7 @@
       "discountPercentage": 17.48,
       "rating": 4.75,
       "stock": 53,
-      "tags": [
-        "beverages"
-      ],
+      "tags": ["beverages"],
       "sku": "GRO-BRD-SOF-039",
       "weight": 9,
       "dimensions": {
@@ -2314,10 +2166,8 @@
         "barcode": "2991169581178",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/39_102.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/39_101.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/39_102.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/39_101.webp"
     },
     {
       "id": 40,
@@ -2328,9 +2178,7 @@
       "discountPercentage": 1.12,
       "rating": 3.08,
       "stock": 46,
-      "tags": [
-        "fruits"
-      ],
+      "tags": ["fruits"],
       "sku": "GRO-BRD-STR-040",
       "weight": 1,
       "dimensions": {
@@ -2372,10 +2220,8 @@
         "barcode": "0792647462295",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/40_103.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/40_104.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/40_103.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/40_104.webp"
     },
     {
       "id": 41,
@@ -2386,9 +2232,7 @@
       "discountPercentage": 13.28,
       "rating": 2.69,
       "stock": 86,
-      "tags": [
-        "household essentials"
-      ],
+      "tags": ["household essentials"],
       "sku": "GRO-BRD-TIS-041",
       "weight": 1,
       "dimensions": {
@@ -2431,10 +2275,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/41_107.jpg",
-        "http://localhost:5000/api/images/41_106.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_107.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_106.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/41_105.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_105.webp"
     },
     {
       "id": 42,
@@ -2445,9 +2289,7 @@
       "discountPercentage": 14.92,
       "rating": 4.96,
       "stock": 53,
-      "tags": [
-        "beverages"
-      ],
+      "tags": ["beverages"],
       "sku": "GRO-BRD-WAT-042",
       "weight": 4,
       "dimensions": {
@@ -2489,10 +2331,8 @@
         "barcode": "2409829645213",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/42_109.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/42_108.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/42_109.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/42_108.webp"
     },
     {
       "id": 43,
@@ -2503,10 +2343,7 @@
       "discountPercentage": 10.41,
       "rating": 3.16,
       "stock": 47,
-      "tags": [
-        "home decor",
-        "swing"
-      ],
+      "tags": ["home decor", "swing"],
       "sku": "HOM-BRD-DEC-043",
       "weight": 4,
       "dimensions": {
@@ -2549,11 +2386,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/43_113.jpg",
-        "http://localhost:5000/api/images/43_111.jpg",
-        "http://localhost:5000/api/images/43_112.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_113.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_111.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_112.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/43_110.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_110.webp"
     },
     {
       "id": 44,
@@ -2564,10 +2401,7 @@
       "discountPercentage": 14.87,
       "rating": 4.53,
       "stock": 77,
-      "tags": [
-        "home decor",
-        "photo frame"
-      ],
+      "tags": ["home decor", "photo frame"],
       "sku": "HOM-BRD-FAM-044",
       "weight": 1,
       "dimensions": {
@@ -2609,10 +2443,8 @@
         "barcode": "5398738320864",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/44_115.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/44_114.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/44_115.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/44_114.webp"
     },
     {
       "id": 45,
@@ -2623,10 +2455,7 @@
       "discountPercentage": 7.46,
       "rating": 4.67,
       "stock": 28,
-      "tags": [
-        "home decor",
-        "artificial plants"
-      ],
+      "tags": ["home decor", "artificial plants"],
       "sku": "HOM-BRD-HOU-045",
       "weight": 8,
       "dimensions": {
@@ -2669,11 +2498,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/45_118.jpg",
-        "http://localhost:5000/api/images/45_117.jpg",
-        "http://localhost:5000/api/images/45_119.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_118.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_117.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_119.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/45_116.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_116.webp"
     },
     {
       "id": 46,
@@ -2684,10 +2513,7 @@
       "discountPercentage": 6.84,
       "rating": 3.01,
       "stock": 59,
-      "tags": [
-        "home decor",
-        "plant accessories"
-      ],
+      "tags": ["home decor", "plant accessories"],
       "sku": "HOM-BRD-PLA-046",
       "weight": 9,
       "dimensions": {
@@ -2730,12 +2556,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/46_121.jpg",
-        "http://localhost:5000/api/images/46_122.jpg",
-        "http://localhost:5000/api/images/46_123.jpg",
-        "http://localhost:5000/api/images/46_124.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_121.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_122.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_123.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_124.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/46_120.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_120.webp"
     },
     {
       "id": 47,
@@ -2746,10 +2572,7 @@
       "discountPercentage": 7.09,
       "rating": 3.55,
       "stock": 9,
-      "tags": [
-        "home decor",
-        "lighting"
-      ],
+      "tags": ["home decor", "lighting"],
       "sku": "HOM-BRD-TAB-047",
       "weight": 4,
       "dimensions": {
@@ -2791,10 +2614,8 @@
         "barcode": "8806138916048",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/47_126.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/47_125.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/47_126.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/47_125.webp"
     },
     {
       "id": 48,
@@ -2805,10 +2626,7 @@
       "discountPercentage": 2.84,
       "rating": 3.27,
       "stock": 37,
-      "tags": [
-        "kitchen tools",
-        "utensils"
-      ],
+      "tags": ["kitchen tools", "utensils"],
       "sku": "KIT-BRD-BAM-048",
       "weight": 3,
       "dimensions": {
@@ -2850,10 +2668,8 @@
         "barcode": "3988181417733",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/48_128.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/48_127.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/48_128.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/48_127.webp"
     },
     {
       "id": 49,
@@ -2864,10 +2680,7 @@
       "discountPercentage": 15.65,
       "rating": 4.46,
       "stock": 75,
-      "tags": [
-        "drinkware",
-        "cups"
-      ],
+      "tags": ["drinkware", "cups"],
       "sku": "KIT-BRD-BLA-049",
       "weight": 7,
       "dimensions": {
@@ -2910,10 +2723,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/49_130.jpg",
-        "http://localhost:5000/api/images/49_131.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_130.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_131.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/49_129.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_129.webp"
     },
     {
       "id": 50,
@@ -2924,10 +2737,7 @@
       "discountPercentage": 10.24,
       "rating": 3.9,
       "stock": 73,
-      "tags": [
-        "kitchen tools",
-        "utensils"
-      ],
+      "tags": ["kitchen tools", "utensils"],
       "sku": "KIT-BRD-BLA-050",
       "weight": 1,
       "dimensions": {
@@ -2969,10 +2779,8 @@
         "barcode": "3112495795209",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/50_133.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/50_132.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/50_133.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/50_132.webp"
     },
     {
       "id": 51,
@@ -2983,10 +2791,7 @@
       "discountPercentage": 7.26,
       "rating": 4.56,
       "stock": 9,
-      "tags": [
-        "kitchen appliances",
-        "blenders"
-      ],
+      "tags": ["kitchen appliances", "blenders"],
       "sku": "KIT-BRD-BOX-051",
       "weight": 1,
       "dimensions": {
@@ -3029,12 +2834,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/51_135.jpg",
-        "http://localhost:5000/api/images/51_137.jpg",
-        "http://localhost:5000/api/images/51_136.jpg",
-        "http://localhost:5000/api/images/51_138.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_135.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_137.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_136.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_138.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/51_134.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_134.webp"
     },
     {
       "id": 52,
@@ -3045,10 +2850,7 @@
       "discountPercentage": 6.53,
       "rating": 4.05,
       "stock": 40,
-      "tags": [
-        "cookware",
-        "woks"
-      ],
+      "tags": ["cookware", "woks"],
       "sku": "KIT-BRD-CAR-052",
       "weight": 2,
       "dimensions": {
@@ -3090,10 +2892,8 @@
         "barcode": "1810862118199",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/52_140.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/52_139.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/52_140.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/52_139.webp"
     },
     {
       "id": 53,
@@ -3104,10 +2904,7 @@
       "discountPercentage": 8.03,
       "rating": 3.7,
       "stock": 14,
-      "tags": [
-        "kitchen tools",
-        "cutting boards"
-      ],
+      "tags": ["kitchen tools", "cutting boards"],
       "sku": "KIT-BRD-CHO-053",
       "weight": 2,
       "dimensions": {
@@ -3149,10 +2946,8 @@
         "barcode": "0085585730728",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/53_141.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/53_142.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/53_141.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/53_142.webp"
     },
     {
       "id": 54,
@@ -3163,10 +2958,7 @@
       "discountPercentage": 12.1,
       "rating": 4.63,
       "stock": 22,
-      "tags": [
-        "kitchen tools",
-        "juicers"
-      ],
+      "tags": ["kitchen tools", "juicers"],
       "sku": "KIT-BRD-CIT-054",
       "weight": 2,
       "dimensions": {
@@ -3208,10 +3000,8 @@
         "barcode": "2231952604189",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/54_144.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/54_143.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/54_144.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/54_143.webp"
     },
     {
       "id": 55,
@@ -3222,10 +3012,7 @@
       "discountPercentage": 14.76,
       "rating": 3.09,
       "stock": 40,
-      "tags": [
-        "kitchen tools",
-        "slicers"
-      ],
+      "tags": ["kitchen tools", "slicers"],
       "sku": "KIT-BRD-SLI-055",
       "weight": 2,
       "dimensions": {
@@ -3267,10 +3054,8 @@
         "barcode": "6456249953517",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/55_146.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/55_145.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/55_146.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/55_145.webp"
     },
     {
       "id": 56,
@@ -3281,10 +3066,7 @@
       "discountPercentage": 14.04,
       "rating": 4.11,
       "stock": 21,
-      "tags": [
-        "kitchen appliances",
-        "cooktops"
-      ],
+      "tags": ["kitchen appliances", "cooktops"],
       "sku": "KIT-BRD-ELE-056",
       "weight": 5,
       "dimensions": {
@@ -3327,12 +3109,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/56_149.jpg",
-        "http://localhost:5000/api/images/56_148.jpg",
-        "http://localhost:5000/api/images/56_147.jpg",
-        "http://localhost:5000/api/images/56_151.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_149.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_148.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_147.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_151.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/56_150.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_150.webp"
     },
     {
       "id": 57,
@@ -3343,10 +3125,7 @@
       "discountPercentage": 3.5,
       "rating": 3.04,
       "stock": 85,
-      "tags": [
-        "kitchen tools",
-        "strainers"
-      ],
+      "tags": ["kitchen tools", "strainers"],
       "sku": "KIT-BRD-FIN-057",
       "weight": 9,
       "dimensions": {
@@ -3388,10 +3167,8 @@
         "barcode": "8181672477425",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/57_153.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/57_152.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/57_153.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/57_152.webp"
     },
     {
       "id": 58,
@@ -3402,10 +3179,7 @@
       "discountPercentage": 8.07,
       "rating": 3.11,
       "stock": 7,
-      "tags": [
-        "kitchen tools",
-        "utensils"
-      ],
+      "tags": ["kitchen tools", "utensils"],
       "sku": "KIT-BRD-FOR-058",
       "weight": 9,
       "dimensions": {
@@ -3447,10 +3221,8 @@
         "barcode": "2851192866410",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/58_155.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/58_154.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/58_155.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/58_154.webp"
     },
     {
       "id": 59,
@@ -3461,10 +3233,7 @@
       "discountPercentage": 7.92,
       "rating": 4.02,
       "stock": 46,
-      "tags": [
-        "drinkware",
-        "glasses"
-      ],
+      "tags": ["drinkware", "glasses"],
       "sku": "KIT-BRD-GLA-059",
       "weight": 10,
       "dimensions": {
@@ -3506,10 +3275,8 @@
         "barcode": "4900880403720",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/59_157.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/59_156.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/59_157.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/59_156.webp"
     },
     {
       "id": 60,
@@ -3520,10 +3287,7 @@
       "discountPercentage": 3.56,
       "rating": 3.21,
       "stock": 84,
-      "tags": [
-        "kitchen tools",
-        "graters"
-      ],
+      "tags": ["kitchen tools", "graters"],
       "sku": "KIT-BRD-GRA-060",
       "weight": 3,
       "dimensions": {
@@ -3565,10 +3329,8 @@
         "barcode": "2542647841284",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/60_158.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/60_159.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/60_158.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/60_159.webp"
     },
     {
       "id": 61,
@@ -3579,10 +3341,7 @@
       "discountPercentage": 17.02,
       "rating": 3.86,
       "stock": 84,
-      "tags": [
-        "kitchen appliances",
-        "blenders"
-      ],
+      "tags": ["kitchen appliances", "blenders"],
       "sku": "KIT-BRD-HAN-061",
       "weight": 5,
       "dimensions": {
@@ -3624,10 +3383,8 @@
         "barcode": "1980575898457",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/61_161.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/61_160.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/61_161.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/61_160.webp"
     },
     {
       "id": 62,
@@ -3638,10 +3395,7 @@
       "discountPercentage": 0.63,
       "rating": 4.71,
       "stock": 13,
-      "tags": [
-        "kitchen tools",
-        "ice cube trays"
-      ],
+      "tags": ["kitchen tools", "ice cube trays"],
       "sku": "KIT-BRD-CUB-062",
       "weight": 3,
       "dimensions": {
@@ -3683,10 +3437,8 @@
         "barcode": "9123541111825",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/62_163.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/62_162.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/62_163.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/62_162.webp"
     },
     {
       "id": 63,
@@ -3697,10 +3449,7 @@
       "discountPercentage": 18.91,
       "rating": 3.09,
       "stock": 68,
-      "tags": [
-        "kitchen tools",
-        "strainers"
-      ],
+      "tags": ["kitchen tools", "strainers"],
       "sku": "KIT-BRD-KIT-063",
       "weight": 5,
       "dimensions": {
@@ -3742,10 +3491,8 @@
         "barcode": "7119606190291",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/63_165.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/63_164.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/63_165.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/63_164.webp"
     },
     {
       "id": 64,
@@ -3756,10 +3503,7 @@
       "discountPercentage": 18.86,
       "rating": 3.26,
       "stock": 7,
-      "tags": [
-        "kitchen tools",
-        "cutlery"
-      ],
+      "tags": ["kitchen tools", "cutlery"],
       "sku": "KIT-BRD-KNI-064",
       "weight": 3,
       "dimensions": {
@@ -3801,10 +3545,8 @@
         "barcode": "2258278927819",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/64_166.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/64_167.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/64_166.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/64_167.webp"
     },
     {
       "id": 65,
@@ -3815,10 +3557,7 @@
       "discountPercentage": 10.34,
       "rating": 4.93,
       "stock": 94,
-      "tags": [
-        "kitchen tools",
-        "storage"
-      ],
+      "tags": ["kitchen tools", "storage"],
       "sku": "KIT-BRD-LUN-065",
       "weight": 9,
       "dimensions": {
@@ -3860,10 +3599,8 @@
         "barcode": "3287134465440",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/65_169.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/65_168.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/65_169.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/65_168.webp"
     },
     {
       "id": 66,
@@ -3874,10 +3611,7 @@
       "discountPercentage": 12.13,
       "rating": 4.82,
       "stock": 59,
-      "tags": [
-        "kitchen appliances",
-        "microwaves"
-      ],
+      "tags": ["kitchen appliances", "microwaves"],
       "sku": "KIT-BRD-MIC-066",
       "weight": 9,
       "dimensions": {
@@ -3920,12 +3654,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/66_171.jpg",
-        "http://localhost:5000/api/images/66_173.jpg",
-        "http://localhost:5000/api/images/66_172.jpg",
-        "http://localhost:5000/api/images/66_174.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_171.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_173.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_172.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_174.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/66_170.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_170.webp"
     },
     {
       "id": 67,
@@ -3936,10 +3670,7 @@
       "discountPercentage": 9.25,
       "rating": 2.64,
       "stock": 88,
-      "tags": [
-        "kitchen tools",
-        "organization"
-      ],
+      "tags": ["kitchen tools", "organization"],
       "sku": "KIT-BRD-TRE-067",
       "weight": 3,
       "dimensions": {
@@ -3982,10 +3713,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/67_176.jpg",
-        "http://localhost:5000/api/images/67_177.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_176.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_177.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/67_175.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_175.webp"
     },
     {
       "id": 68,
@@ -3996,10 +3727,7 @@
       "discountPercentage": 3,
       "rating": 2.79,
       "stock": 90,
-      "tags": [
-        "cookware",
-        "pans"
-      ],
+      "tags": ["cookware", "pans"],
       "sku": "KIT-BRD-PRD-068",
       "weight": 8,
       "dimensions": {
@@ -4041,10 +3769,8 @@
         "barcode": "5159803862015",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/68_179.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/68_178.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/68_179.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/68_178.webp"
     },
     {
       "id": 69,
@@ -4055,10 +3781,7 @@
       "discountPercentage": 7.31,
       "rating": 3.65,
       "stock": 66,
-      "tags": [
-        "dinnerware",
-        "plates"
-      ],
+      "tags": ["dinnerware", "plates"],
       "sku": "KIT-BRD-PLA-069",
       "weight": 4,
       "dimensions": {
@@ -4100,10 +3823,8 @@
         "barcode": "8084753475328",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/69_181.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/69_180.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/69_181.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/69_180.webp"
     },
     {
       "id": 70,
@@ -4114,10 +3835,7 @@
       "discountPercentage": 14.52,
       "rating": 4.42,
       "stock": 82,
-      "tags": [
-        "kitchen tools",
-        "tongs"
-      ],
+      "tags": ["kitchen tools", "tongs"],
       "sku": "KIT-BRD-TON-070",
       "weight": 7,
       "dimensions": {
@@ -4159,10 +3877,8 @@
         "barcode": "1919888449594",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/70_183.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/70_182.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/70_183.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/70_182.webp"
     },
     {
       "id": 71,
@@ -4173,10 +3889,7 @@
       "discountPercentage": 5.7,
       "rating": 3.22,
       "stock": 40,
-      "tags": [
-        "cookware",
-        "pots"
-      ],
+      "tags": ["cookware", "pots"],
       "sku": "KIT-BRD-SIL-071",
       "weight": 7,
       "dimensions": {
@@ -4218,10 +3931,8 @@
         "barcode": "9757232943842",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/71_185.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/71_184.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/71_185.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/71_184.webp"
     },
     {
       "id": 72,
@@ -4232,10 +3943,7 @@
       "discountPercentage": 13.35,
       "rating": 3.4,
       "stock": 88,
-      "tags": [
-        "kitchen tools",
-        "turners"
-      ],
+      "tags": ["kitchen tools", "turners"],
       "sku": "KIT-BRD-SLO-072",
       "weight": 8,
       "dimensions": {
@@ -4277,10 +3985,8 @@
         "barcode": "4396291569672",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/72_187.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/72_186.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/72_187.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/72_186.webp"
     },
     {
       "id": 73,
@@ -4291,10 +3997,7 @@
       "discountPercentage": 12.09,
       "rating": 4.87,
       "stock": 79,
-      "tags": [
-        "kitchen tools",
-        "organization"
-      ],
+      "tags": ["kitchen tools", "organization"],
       "sku": "KIT-BRD-SPI-073",
       "weight": 7,
       "dimensions": {
@@ -4336,10 +4039,8 @@
         "barcode": "6149284465708",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/73_189.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/73_188.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/73_189.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/73_188.webp"
     },
     {
       "id": 74,
@@ -4350,10 +4051,7 @@
       "discountPercentage": 1.53,
       "rating": 4.03,
       "stock": 59,
-      "tags": [
-        "kitchen tools",
-        "utensils"
-      ],
+      "tags": ["kitchen tools", "utensils"],
       "sku": "KIT-BRD-SPO-074",
       "weight": 6,
       "dimensions": {
@@ -4395,10 +4093,8 @@
         "barcode": "7769627934740",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/74_191.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/74_190.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/74_191.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/74_190.webp"
     },
     {
       "id": 75,
@@ -4409,10 +4105,7 @@
       "discountPercentage": 7.48,
       "rating": 4.62,
       "stock": 71,
-      "tags": [
-        "serveware",
-        "trays"
-      ],
+      "tags": ["serveware", "trays"],
       "sku": "KIT-BRD-TRA-075",
       "weight": 10,
       "dimensions": {
@@ -4454,10 +4147,8 @@
         "barcode": "5239514403214",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/75_192.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/75_193.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/75_192.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/75_193.webp"
     },
     {
       "id": 76,
@@ -4468,10 +4159,7 @@
       "discountPercentage": 9.75,
       "rating": 2.92,
       "stock": 80,
-      "tags": [
-        "kitchen tools",
-        "baking"
-      ],
+      "tags": ["kitchen tools", "baking"],
       "sku": "KIT-BRD-WOO-076",
       "weight": 7,
       "dimensions": {
@@ -4513,10 +4201,8 @@
         "barcode": "6934305212813",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/76_195.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/76_194.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/76_195.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/76_194.webp"
     },
     {
       "id": 77,
@@ -4527,10 +4213,7 @@
       "discountPercentage": 12.48,
       "rating": 4.24,
       "stock": 35,
-      "tags": [
-        "kitchen tools",
-        "peelers"
-      ],
+      "tags": ["kitchen tools", "peelers"],
       "sku": "KIT-BRD-YEL-077",
       "weight": 7,
       "dimensions": {
@@ -4572,10 +4255,8 @@
         "barcode": "8946155386929",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/77_197.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/77_196.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/77_197.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/77_196.webp"
     },
     {
       "id": 78,
@@ -4586,10 +4267,7 @@
       "discountPercentage": 4.69,
       "rating": 3.65,
       "stock": 24,
-      "tags": [
-        "laptops",
-        "apple"
-      ],
+      "tags": ["laptops", "apple"],
       "brand": "Apple",
       "sku": "LAP-APP-APP-078",
       "weight": 9,
@@ -4633,11 +4311,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/78_198.jpg",
-        "http://localhost:5000/api/images/78_200.jpg",
-        "http://localhost:5000/api/images/78_201.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_198.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_200.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_201.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/78_199.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_199.webp"
     },
     {
       "id": 79,
@@ -4648,9 +4326,7 @@
       "discountPercentage": 11.14,
       "rating": 3.95,
       "stock": 45,
-      "tags": [
-        "laptops"
-      ],
+      "tags": ["laptops"],
       "brand": "Asus",
       "sku": "LAP-ASU-ASU-079",
       "weight": 9,
@@ -4694,11 +4370,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/79_204.jpg",
-        "http://localhost:5000/api/images/79_205.jpg",
-        "http://localhost:5000/api/images/79_203.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_204.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_205.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_203.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/79_202.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_202.webp"
     },
     {
       "id": 80,
@@ -4709,9 +4385,7 @@
       "discountPercentage": 9.38,
       "rating": 4.98,
       "stock": 75,
-      "tags": [
-        "laptops"
-      ],
+      "tags": ["laptops"],
       "brand": "Huawei",
       "sku": "LAP-HUA-HUA-080",
       "weight": 9,
@@ -4755,11 +4429,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/80_207.jpg",
-        "http://localhost:5000/api/images/80_208.jpg",
-        "http://localhost:5000/api/images/80_209.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_207.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_208.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_209.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/80_206.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_206.webp"
     },
     {
       "id": 81,
@@ -4770,9 +4444,7 @@
       "discountPercentage": 6.55,
       "rating": 2.86,
       "stock": 40,
-      "tags": [
-        "laptops"
-      ],
+      "tags": ["laptops"],
       "brand": "Lenovo",
       "sku": "LAP-LEN-LEN-081",
       "weight": 9,
@@ -4816,11 +4488,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/81_212.jpg",
-        "http://localhost:5000/api/images/81_213.jpg",
-        "http://localhost:5000/api/images/81_211.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_212.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_213.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_211.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/81_210.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_210.webp"
     },
     {
       "id": 82,
@@ -4831,9 +4503,7 @@
       "discountPercentage": 11.89,
       "rating": 2.67,
       "stock": 74,
-      "tags": [
-        "laptops"
-      ],
+      "tags": ["laptops"],
       "brand": "Dell",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
@@ -4877,11 +4547,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/82_215.jpg",
-        "http://localhost:5000/api/images/82_217.jpg",
-        "http://localhost:5000/api/images/82_216.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_215.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_217.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_216.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/82_214.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_214.webp"
     },
     {
       "id": 83,
@@ -4892,10 +4562,7 @@
       "discountPercentage": 15.35,
       "rating": 3.64,
       "stock": 38,
-      "tags": [
-        "clothing",
-        "men's shirts"
-      ],
+      "tags": ["clothing", "men's shirts"],
       "brand": "Fashion Trends",
       "sku": "MEN-FAS-BLU-083",
       "weight": 4,
@@ -4939,12 +4606,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/83_219.jpg",
-        "http://localhost:5000/api/images/83_220.jpg",
-        "http://localhost:5000/api/images/83_221.jpg",
-        "http://localhost:5000/api/images/83_222.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_219.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_220.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_221.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_222.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/83_218.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_218.webp"
     },
     {
       "id": 84,
@@ -4955,10 +4622,7 @@
       "discountPercentage": 0.94,
       "rating": 3.18,
       "stock": 90,
-      "tags": [
-        "clothing",
-        "men's t-shirts"
-      ],
+      "tags": ["clothing", "men's t-shirts"],
       "brand": "Gigabyte",
       "sku": "MEN-GIG-GIG-084",
       "weight": 4,
@@ -5002,12 +4666,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/84_224.jpg",
-        "http://localhost:5000/api/images/84_225.jpg",
-        "http://localhost:5000/api/images/84_227.jpg",
-        "http://localhost:5000/api/images/84_226.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_224.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_225.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_227.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_226.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/84_223.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_223.webp"
     },
     {
       "id": 85,
@@ -5018,10 +4682,7 @@
       "discountPercentage": 19.5,
       "rating": 3.46,
       "stock": 82,
-      "tags": [
-        "clothing",
-        "men's shirts"
-      ],
+      "tags": ["clothing", "men's shirts"],
       "brand": "Classic Wear",
       "sku": "MEN-CLA-PLA-085",
       "weight": 3,
@@ -5065,12 +4726,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/85_230.jpg",
-        "http://localhost:5000/api/images/85_229.jpg",
-        "http://localhost:5000/api/images/85_232.jpg",
-        "http://localhost:5000/api/images/85_231.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_230.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_229.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_232.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_231.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/85_228.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_228.webp"
     },
     {
       "id": 86,
@@ -5081,10 +4742,7 @@
       "discountPercentage": 6.83,
       "rating": 2.9,
       "stock": 2,
-      "tags": [
-        "clothing",
-        "men's shirts"
-      ],
+      "tags": ["clothing", "men's shirts"],
       "brand": "Casual Comfort",
       "sku": "MEN-CAS-SHO-086",
       "weight": 2,
@@ -5128,12 +4786,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/86_234.jpg",
-        "http://localhost:5000/api/images/86_235.jpg",
-        "http://localhost:5000/api/images/86_237.jpg",
-        "http://localhost:5000/api/images/86_236.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_234.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_235.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_237.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_236.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/86_233.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_233.webp"
     },
     {
       "id": 87,
@@ -5144,10 +4802,7 @@
       "discountPercentage": 11.38,
       "rating": 2.72,
       "stock": 95,
-      "tags": [
-        "clothing",
-        "men's shirts"
-      ],
+      "tags": ["clothing", "men's shirts"],
       "brand": "Urban Chic",
       "sku": "MEN-URB-CHE-087",
       "weight": 10,
@@ -5191,12 +4846,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/87_238.jpg",
-        "http://localhost:5000/api/images/87_239.jpg",
-        "http://localhost:5000/api/images/87_241.jpg",
-        "http://localhost:5000/api/images/87_242.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_238.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_239.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_241.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_242.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/87_240.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_240.webp"
     },
     {
       "id": 88,
@@ -5207,10 +4862,7 @@
       "discountPercentage": 4.12,
       "rating": 4.77,
       "stock": 7,
-      "tags": [
-        "footwear",
-        "athletic shoes"
-      ],
+      "tags": ["footwear", "athletic shoes"],
       "brand": "Nike",
       "sku": "MEN-NIK-NIK-088",
       "weight": 3,
@@ -5254,12 +4906,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/88_245.jpg",
-        "http://localhost:5000/api/images/88_244.jpg",
-        "http://localhost:5000/api/images/88_247.jpg",
-        "http://localhost:5000/api/images/88_246.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_245.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_244.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_247.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_246.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/88_243.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_243.webp"
     },
     {
       "id": 89,
@@ -5270,10 +4922,7 @@
       "discountPercentage": 18.04,
       "rating": 3.88,
       "stock": 12,
-      "tags": [
-        "footwear",
-        "sports cleats"
-      ],
+      "tags": ["footwear", "sports cleats"],
       "brand": "Nike",
       "sku": "MEN-NIK-NIK-089",
       "weight": 9,
@@ -5317,12 +4966,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/89_250.jpg",
-        "http://localhost:5000/api/images/89_249.jpg",
-        "http://localhost:5000/api/images/89_252.jpg",
-        "http://localhost:5000/api/images/89_251.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_250.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_249.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_252.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_251.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/89_248.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_248.webp"
     },
     {
       "id": 90,
@@ -5333,10 +4982,7 @@
       "discountPercentage": 4.2,
       "rating": 4.9,
       "stock": 90,
-      "tags": [
-        "footwear",
-        "casual shoes"
-      ],
+      "tags": ["footwear", "casual shoes"],
       "brand": "Puma",
       "sku": "MEN-PUM-PUM-090",
       "weight": 6,
@@ -5380,12 +5026,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/90_254.jpg",
-        "http://localhost:5000/api/images/90_255.jpg",
-        "http://localhost:5000/api/images/90_257.jpg",
-        "http://localhost:5000/api/images/90_256.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_254.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_255.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_257.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_256.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/90_253.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_253.webp"
     },
     {
       "id": 91,
@@ -5396,10 +5042,7 @@
       "discountPercentage": 4.97,
       "rating": 4.77,
       "stock": 17,
-      "tags": [
-        "footwear",
-        "athletic shoes"
-      ],
+      "tags": ["footwear", "athletic shoes"],
       "brand": "Off White",
       "sku": "MEN-OFF-SPO-091",
       "weight": 7,
@@ -5443,12 +5086,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/91_258.jpg",
-        "http://localhost:5000/api/images/91_260.jpg",
-        "http://localhost:5000/api/images/91_262.jpg",
-        "http://localhost:5000/api/images/91_261.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_258.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_260.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_262.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_261.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/91_259.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_259.webp"
     },
     {
       "id": 92,
@@ -5459,10 +5102,7 @@
       "discountPercentage": 0.04,
       "rating": 4.69,
       "stock": 62,
-      "tags": [
-        "footwear",
-        "casual shoes"
-      ],
+      "tags": ["footwear", "casual shoes"],
       "brand": "Off White",
       "sku": "MEN-OFF-SPO-092",
       "weight": 9,
@@ -5506,12 +5146,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/92_263.jpg",
-        "http://localhost:5000/api/images/92_264.jpg",
-        "http://localhost:5000/api/images/92_267.jpg",
-        "http://localhost:5000/api/images/92_266.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_263.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_264.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_267.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_266.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/92_265.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_265.webp"
     },
     {
       "id": 93,
@@ -5522,10 +5162,7 @@
       "discountPercentage": 5.99,
       "rating": 4.19,
       "stock": 32,
-      "tags": [
-        "watches",
-        "leather watches"
-      ],
+      "tags": ["watches", "leather watches"],
       "brand": "Fashion Timepieces",
       "sku": "MEN-FAS-BRO-093",
       "weight": 10,
@@ -5569,11 +5206,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/93_268.jpg",
-        "http://localhost:5000/api/images/93_270.jpg",
-        "http://localhost:5000/api/images/93_271.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_268.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_270.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_271.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/93_269.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_269.webp"
     },
     {
       "id": 94,
@@ -5584,10 +5221,7 @@
       "discountPercentage": 17.24,
       "rating": 3.87,
       "stock": 100,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Longines",
       "sku": "MEN-LON-LON-094",
       "weight": 4,
@@ -5631,11 +5265,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/94_274.jpg",
-        "http://localhost:5000/api/images/94_273.jpg",
-        "http://localhost:5000/api/images/94_275.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_274.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_273.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_275.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/94_272.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_272.webp"
     },
     {
       "id": 95,
@@ -5646,10 +5280,7 @@
       "discountPercentage": 8.88,
       "rating": 4.97,
       "stock": 40,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Rolex",
       "sku": "MEN-ROL-ROL-095",
       "weight": 2,
@@ -5693,11 +5324,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/95_279.jpg",
-        "http://localhost:5000/api/images/95_277.jpg",
-        "http://localhost:5000/api/images/95_276.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_279.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_277.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_276.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/95_278.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_278.webp"
     },
     {
       "id": 96,
@@ -5708,10 +5339,7 @@
       "discountPercentage": 17.52,
       "rating": 2.58,
       "stock": 36,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Rolex",
       "sku": "MEN-ROL-ROL-096",
       "weight": 2,
@@ -5755,11 +5383,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/96_283.jpg",
-        "http://localhost:5000/api/images/96_282.jpg",
-        "http://localhost:5000/api/images/96_281.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_283.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_282.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_281.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/96_280.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_280.webp"
     },
     {
       "id": 97,
@@ -5770,10 +5398,7 @@
       "discountPercentage": 3.73,
       "rating": 3.66,
       "stock": 86,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Rolex",
       "sku": "MEN-ROL-ROL-097",
       "weight": 4,
@@ -5817,11 +5442,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/97_285.jpg",
-        "http://localhost:5000/api/images/97_287.jpg",
-        "http://localhost:5000/api/images/97_286.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_285.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_287.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_286.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/97_284.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_284.webp"
     },
     {
       "id": 98,
@@ -5832,10 +5457,7 @@
       "discountPercentage": 5.05,
       "rating": 2.69,
       "stock": 55,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Rolex",
       "sku": "MEN-ROL-ROL-098",
       "weight": 4,
@@ -5879,11 +5501,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/98_288.jpg",
-        "http://localhost:5000/api/images/98_290.jpg",
-        "http://localhost:5000/api/images/98_291.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_288.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_290.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_291.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/98_289.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_289.webp"
     },
     {
       "id": 99,
@@ -5894,10 +5516,7 @@
       "discountPercentage": 12.07,
       "rating": 4.99,
       "stock": 61,
-      "tags": [
-        "electronics",
-        "smart speakers"
-      ],
+      "tags": ["electronics", "smart speakers"],
       "brand": "Amazon",
       "sku": "MOB-AMA-AMA-099",
       "weight": 5,
@@ -5941,10 +5560,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/99_293.jpg",
-        "http://localhost:5000/api/images/99_294.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_293.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_294.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/99_292.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_292.webp"
     },
     {
       "id": 100,
@@ -5955,10 +5574,7 @@
       "discountPercentage": 15.54,
       "rating": 4.15,
       "stock": 67,
-      "tags": [
-        "electronics",
-        "wireless earphones"
-      ],
+      "tags": ["electronics", "wireless earphones"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-100",
       "weight": 4,
@@ -6002,11 +5618,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/100_298.jpg",
-        "http://localhost:5000/api/images/100_297.jpg",
-        "http://localhost:5000/api/images/100_296.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_298.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_297.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_296.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/100_295.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_295.webp"
     },
     {
       "id": 101,
@@ -6017,10 +5633,7 @@
       "discountPercentage": 13.67,
       "rating": 3.47,
       "stock": 59,
-      "tags": [
-        "electronics",
-        "over-ear headphones"
-      ],
+      "tags": ["electronics", "over-ear headphones"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-101",
       "weight": 2,
@@ -6063,10 +5676,8 @@
         "barcode": "4062176053732",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/101_300.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/101_299.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/101_300.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/101_299.webp"
     },
     {
       "id": 102,
@@ -6077,10 +5688,7 @@
       "discountPercentage": 4.48,
       "rating": 3.68,
       "stock": 1,
-      "tags": [
-        "electronics",
-        "wireless chargers"
-      ],
+      "tags": ["electronics", "wireless chargers"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-102",
       "weight": 5,
@@ -6123,10 +5731,8 @@
         "barcode": "3323662242939",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/102_301.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/102_302.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/102_301.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/102_302.webp"
     },
     {
       "id": 103,
@@ -6137,10 +5743,7 @@
       "discountPercentage": 18.1,
       "rating": 4.62,
       "stock": 27,
-      "tags": [
-        "electronics",
-        "smart speakers"
-      ],
+      "tags": ["electronics", "smart speakers"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-103",
       "weight": 10,
@@ -6183,10 +5786,8 @@
         "barcode": "6135642608024",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/103_304.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/103_303.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/103_304.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/103_303.webp"
     },
     {
       "id": 104,
@@ -6197,10 +5798,7 @@
       "discountPercentage": 18.52,
       "rating": 4.15,
       "stock": 31,
-      "tags": [
-        "electronics",
-        "chargers"
-      ],
+      "tags": ["electronics", "chargers"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-104",
       "weight": 1,
@@ -6244,10 +5842,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/104_307.jpg",
-        "http://localhost:5000/api/images/104_306.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_307.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_306.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/104_305.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_305.webp"
     },
     {
       "id": 105,
@@ -6258,10 +5856,7 @@
       "discountPercentage": 17.17,
       "rating": 3.62,
       "stock": 1,
-      "tags": [
-        "electronics",
-        "power banks"
-      ],
+      "tags": ["electronics", "power banks"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-105",
       "weight": 6,
@@ -6305,10 +5900,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/105_310.jpg",
-        "http://localhost:5000/api/images/105_309.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_310.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_309.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/105_308.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_308.webp"
     },
     {
       "id": 106,
@@ -6319,10 +5914,7 @@
       "discountPercentage": 12.02,
       "rating": 2.74,
       "stock": 33,
-      "tags": [
-        "electronics",
-        "smartwatches"
-      ],
+      "tags": ["electronics", "smartwatches"],
       "brand": "Apple",
       "sku": "MOB-APP-APP-106",
       "weight": 6,
@@ -6366,11 +5958,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/106_314.jpg",
-        "http://localhost:5000/api/images/106_312.jpg",
-        "http://localhost:5000/api/images/106_311.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_314.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_312.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_311.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/106_313.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_313.webp"
     },
     {
       "id": 107,
@@ -6381,10 +5973,7 @@
       "discountPercentage": 5.73,
       "rating": 4.24,
       "stock": 50,
-      "tags": [
-        "electronics",
-        "wireless earphones"
-      ],
+      "tags": ["electronics", "wireless earphones"],
       "brand": "Beats",
       "sku": "MOB-BEA-BEA-107",
       "weight": 8,
@@ -6427,10 +6016,8 @@
         "barcode": "1741271692174",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/107_316.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/107_315.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/107_316.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/107_315.webp"
     },
     {
       "id": 108,
@@ -6441,10 +6028,7 @@
       "discountPercentage": 13.85,
       "rating": 3.62,
       "stock": 69,
-      "tags": [
-        "electronics",
-        "phone accessories"
-      ],
+      "tags": ["electronics", "phone accessories"],
       "brand": "Apple",
       "sku": "MOB-APP-IPH-108",
       "weight": 7,
@@ -6488,12 +6072,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/108_317.jpg",
-        "http://localhost:5000/api/images/108_319.jpg",
-        "http://localhost:5000/api/images/108_320.jpg",
-        "http://localhost:5000/api/images/108_321.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_317.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_319.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_320.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_321.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/108_318.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_318.webp"
     },
     {
       "id": 109,
@@ -6504,10 +6088,7 @@
       "discountPercentage": 8.58,
       "rating": 4.43,
       "stock": 48,
-      "tags": [
-        "electronics",
-        "camera accessories"
-      ],
+      "tags": ["electronics", "camera accessories"],
       "brand": "TechGear",
       "sku": "MOB-TEC-MON-109",
       "weight": 10,
@@ -6551,10 +6132,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/109_322.jpg",
-        "http://localhost:5000/api/images/109_324.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_322.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_324.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/109_323.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_323.webp"
     },
     {
       "id": 110,
@@ -6565,10 +6146,7 @@
       "discountPercentage": 19.4,
       "rating": 3.55,
       "stock": 58,
-      "tags": [
-        "electronics",
-        "selfie accessories"
-      ],
+      "tags": ["electronics", "selfie accessories"],
       "brand": "GadgetMaster",
       "sku": "MOB-GAD-SEL-110",
       "weight": 10,
@@ -6611,10 +6189,8 @@
         "barcode": "4372781189895",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/110_326.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/110_325.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/110_326.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/110_325.webp"
     },
     {
       "id": 111,
@@ -6625,10 +6201,7 @@
       "discountPercentage": 19.12,
       "rating": 3.88,
       "stock": 11,
-      "tags": [
-        "electronics",
-        "selfie accessories"
-      ],
+      "tags": ["electronics", "selfie accessories"],
       "brand": "SnapTech",
       "sku": "MOB-SNA-SEL-111",
       "weight": 2,
@@ -6671,10 +6244,8 @@
         "barcode": "7063982050226",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/111_327.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/111_328.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/111_327.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/111_328.webp"
     },
     {
       "id": 112,
@@ -6685,10 +6256,7 @@
       "discountPercentage": 8.31,
       "rating": 2.78,
       "stock": 15,
-      "tags": [
-        "electronics",
-        "camera accessories"
-      ],
+      "tags": ["electronics", "camera accessories"],
       "brand": "ProVision",
       "sku": "MOB-PRO-STU-112",
       "weight": 4,
@@ -6731,10 +6299,8 @@
         "barcode": "1488782082307",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/112_330.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/112_329.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/112_330.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/112_329.webp"
     },
     {
       "id": 113,
@@ -6745,9 +6311,7 @@
       "discountPercentage": 12.1,
       "rating": 4.91,
       "stock": 34,
-      "tags": [
-        "motorcycles"
-      ],
+      "tags": ["motorcycles"],
       "brand": "Generic Motors",
       "sku": "MOT-GEN-GEN-113",
       "weight": 8,
@@ -6791,12 +6355,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/113_335.jpg",
-        "http://localhost:5000/api/images/113_332.jpg",
-        "http://localhost:5000/api/images/113_334.jpg",
-        "http://localhost:5000/api/images/113_331.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_335.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_332.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_334.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_331.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/113_333.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_333.webp"
     },
     {
       "id": 114,
@@ -6807,10 +6371,7 @@
       "discountPercentage": 9.77,
       "rating": 3.98,
       "stock": 52,
-      "tags": [
-        "motorcycles",
-        "sportbikes"
-      ],
+      "tags": ["motorcycles", "sportbikes"],
       "brand": "Kawasaki",
       "sku": "MOT-KAW-KAW-114",
       "weight": 9,
@@ -6854,12 +6415,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/114_338.jpg",
-        "http://localhost:5000/api/images/114_339.jpg",
-        "http://localhost:5000/api/images/114_337.jpg",
-        "http://localhost:5000/api/images/114_336.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_338.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_339.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_337.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_336.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/114_340.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_340.webp"
     },
     {
       "id": 115,
@@ -6870,10 +6431,7 @@
       "discountPercentage": 6.92,
       "rating": 2.97,
       "stock": 10,
-      "tags": [
-        "motorcycles",
-        "sportbikes"
-      ],
+      "tags": ["motorcycles", "sportbikes"],
       "brand": "MotoGP",
       "sku": "MOT-MOT-MOT-115",
       "weight": 1,
@@ -6917,12 +6475,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/115_344.jpg",
-        "http://localhost:5000/api/images/115_343.jpg",
-        "http://localhost:5000/api/images/115_342.jpg",
-        "http://localhost:5000/api/images/115_341.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_344.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_343.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_342.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_341.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/115_345.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_345.webp"
     },
     {
       "id": 116,
@@ -6933,10 +6491,7 @@
       "discountPercentage": 6.27,
       "rating": 2.53,
       "stock": 84,
-      "tags": [
-        "motorcycles",
-        "scooters"
-      ],
+      "tags": ["motorcycles", "scooters"],
       "brand": "ScootMaster",
       "sku": "MOT-SCO-SCO-116",
       "weight": 7,
@@ -6980,12 +6535,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/116_348.jpg",
-        "http://localhost:5000/api/images/116_349.jpg",
-        "http://localhost:5000/api/images/116_347.jpg",
-        "http://localhost:5000/api/images/116_346.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_348.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_349.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_347.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_346.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/116_350.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_350.webp"
     },
     {
       "id": 117,
@@ -6996,10 +6551,7 @@
       "discountPercentage": 11.58,
       "rating": 3.94,
       "stock": 0,
-      "tags": [
-        "motorcycles",
-        "sportbikes"
-      ],
+      "tags": ["motorcycles", "sportbikes"],
       "brand": "SpeedMaster",
       "sku": "MOT-SPE-SPO-117",
       "weight": 10,
@@ -7043,12 +6595,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/117_353.jpg",
-        "http://localhost:5000/api/images/117_352.jpg",
-        "http://localhost:5000/api/images/117_354.jpg",
-        "http://localhost:5000/api/images/117_351.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_353.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_352.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_354.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_351.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/117_355.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_355.webp"
     },
     {
       "id": 118,
@@ -7059,10 +6611,7 @@
       "discountPercentage": 18.49,
       "rating": 3.19,
       "stock": 94,
-      "tags": [
-        "personal care",
-        "hand soap"
-      ],
+      "tags": ["personal care", "hand soap"],
       "brand": "Attitude",
       "sku": "SKI-ATT-ATT-118",
       "weight": 1,
@@ -7106,11 +6655,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/118_356.jpg",
-        "http://localhost:5000/api/images/118_357.jpg",
-        "http://localhost:5000/api/images/118_358.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_356.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_357.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_358.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/118_359.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_359.webp"
     },
     {
       "id": 119,
@@ -7121,10 +6670,7 @@
       "discountPercentage": 16.39,
       "rating": 4.51,
       "stock": 34,
-      "tags": [
-        "personal care",
-        "body wash"
-      ],
+      "tags": ["personal care", "body wash"],
       "brand": "Olay",
       "sku": "SKI-OLA-OLA-119",
       "weight": 4,
@@ -7168,11 +6714,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/119_363.jpg",
-        "http://localhost:5000/api/images/119_362.jpg",
-        "http://localhost:5000/api/images/119_361.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_363.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_362.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_361.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/119_360.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_360.webp"
     },
     {
       "id": 120,
@@ -7183,10 +6729,7 @@
       "discountPercentage": 13.39,
       "rating": 3.16,
       "stock": 95,
-      "tags": [
-        "personal care",
-        "body lotion"
-      ],
+      "tags": ["personal care", "body lotion"],
       "brand": "Vaseline",
       "sku": "SKI-VAS-VAS-120",
       "weight": 4,
@@ -7230,11 +6773,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/120_365.jpg",
-        "http://localhost:5000/api/images/120_367.jpg",
-        "http://localhost:5000/api/images/120_366.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_365.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_367.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_366.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/120_364.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_364.webp"
     },
     {
       "id": 121,
@@ -7245,10 +6788,7 @@
       "discountPercentage": 12.91,
       "rating": 2.83,
       "stock": 25,
-      "tags": [
-        "smartphones",
-        "apple"
-      ],
+      "tags": ["smartphones", "apple"],
       "brand": "Apple",
       "sku": "SMA-APP-IPH-121",
       "weight": 2,
@@ -7292,11 +6832,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/121_369.jpg",
-        "http://localhost:5000/api/images/121_370.jpg",
-        "http://localhost:5000/api/images/121_371.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_369.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_370.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_371.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/121_368.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_368.webp"
     },
     {
       "id": 122,
@@ -7307,10 +6847,7 @@
       "discountPercentage": 6.69,
       "rating": 3.41,
       "stock": 60,
-      "tags": [
-        "smartphones",
-        "apple"
-      ],
+      "tags": ["smartphones", "apple"],
       "brand": "Apple",
       "sku": "SMA-APP-IPH-122",
       "weight": 7,
@@ -7354,11 +6891,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/122_372.jpg",
-        "http://localhost:5000/api/images/122_374.jpg",
-        "http://localhost:5000/api/images/122_375.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_372.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_374.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_375.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/122_373.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_373.webp"
     },
     {
       "id": 123,
@@ -7369,10 +6906,7 @@
       "discountPercentage": 9.37,
       "rating": 4.12,
       "stock": 56,
-      "tags": [
-        "smartphones",
-        "apple"
-      ],
+      "tags": ["smartphones", "apple"],
       "brand": "Apple",
       "sku": "SMA-APP-IPH-123",
       "weight": 8,
@@ -7416,11 +6950,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/123_377.jpg",
-        "http://localhost:5000/api/images/123_379.jpg",
-        "http://localhost:5000/api/images/123_376.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_377.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_379.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_376.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/123_378.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_378.webp"
     },
     {
       "id": 124,
@@ -7431,10 +6965,7 @@
       "discountPercentage": 19.59,
       "rating": 2.51,
       "stock": 37,
-      "tags": [
-        "smartphones",
-        "apple"
-      ],
+      "tags": ["smartphones", "apple"],
       "brand": "Apple",
       "sku": "SMA-APP-IPH-124",
       "weight": 1,
@@ -7478,11 +7009,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/124_383.jpg",
-        "http://localhost:5000/api/images/124_382.jpg",
-        "http://localhost:5000/api/images/124_381.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_383.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_382.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_381.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/124_380.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_380.webp"
     },
     {
       "id": 125,
@@ -7493,10 +7024,7 @@
       "discountPercentage": 2.43,
       "rating": 3.94,
       "stock": 19,
-      "tags": [
-        "smartphones",
-        "oppo"
-      ],
+      "tags": ["smartphones", "oppo"],
       "brand": "Oppo",
       "sku": "SMA-OPP-OPP-125",
       "weight": 5,
@@ -7540,11 +7068,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/125_384.jpg",
-        "http://localhost:5000/api/images/125_387.jpg",
-        "http://localhost:5000/api/images/125_386.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_384.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_387.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_386.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/125_385.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_385.webp"
     },
     {
       "id": 126,
@@ -7555,10 +7083,7 @@
       "discountPercentage": 18.64,
       "rating": 3.51,
       "stock": 78,
-      "tags": [
-        "smartphones",
-        "oppo"
-      ],
+      "tags": ["smartphones", "oppo"],
       "brand": "Oppo",
       "sku": "SMA-OPP-OPP-126",
       "weight": 6,
@@ -7602,11 +7127,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/126_388.jpg",
-        "http://localhost:5000/api/images/126_390.jpg",
-        "http://localhost:5000/api/images/126_391.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_388.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_390.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_391.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/126_389.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_389.webp"
     },
     {
       "id": 127,
@@ -7617,10 +7142,7 @@
       "discountPercentage": 18.29,
       "rating": 4.25,
       "stock": 55,
-      "tags": [
-        "smartphones",
-        "oppo"
-      ],
+      "tags": ["smartphones", "oppo"],
       "brand": "Oppo",
       "sku": "SMA-OPP-OPP-127",
       "weight": 5,
@@ -7664,12 +7186,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/127_395.jpg",
-        "http://localhost:5000/api/images/127_392.jpg",
-        "http://localhost:5000/api/images/127_394.jpg",
-        "http://localhost:5000/api/images/127_396.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_395.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_392.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_394.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_396.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/127_393.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_393.webp"
     },
     {
       "id": 128,
@@ -7680,10 +7202,7 @@
       "discountPercentage": 15.3,
       "rating": 4.2,
       "stock": 48,
-      "tags": [
-        "smartphones",
-        "realme"
-      ],
+      "tags": ["smartphones", "realme"],
       "brand": "Realme",
       "sku": "SMA-REA-REA-128",
       "weight": 2,
@@ -7727,11 +7246,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/128_400.jpg",
-        "http://localhost:5000/api/images/128_397.jpg",
-        "http://localhost:5000/api/images/128_399.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_400.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_397.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_399.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/128_398.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_398.webp"
     },
     {
       "id": 129,
@@ -7742,10 +7261,7 @@
       "discountPercentage": 6.95,
       "rating": 3.7,
       "stock": 12,
-      "tags": [
-        "smartphones",
-        "realme"
-      ],
+      "tags": ["smartphones", "realme"],
       "brand": "Realme",
       "sku": "SMA-REA-REA-129",
       "weight": 4,
@@ -7789,11 +7305,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/129_403.jpg",
-        "http://localhost:5000/api/images/129_404.jpg",
-        "http://localhost:5000/api/images/129_401.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_403.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_404.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_401.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/129_402.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_402.webp"
     },
     {
       "id": 130,
@@ -7804,10 +7320,7 @@
       "discountPercentage": 11.51,
       "rating": 4.58,
       "stock": 80,
-      "tags": [
-        "smartphones",
-        "realme"
-      ],
+      "tags": ["smartphones", "realme"],
       "brand": "Realme",
       "sku": "SMA-REA-REA-130",
       "weight": 3,
@@ -7851,11 +7364,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/130_408.jpg",
-        "http://localhost:5000/api/images/130_407.jpg",
-        "http://localhost:5000/api/images/130_406.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_408.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_407.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_406.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/130_405.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_405.webp"
     },
     {
       "id": 131,
@@ -7866,10 +7379,7 @@
       "discountPercentage": 19.55,
       "rating": 3.3,
       "stock": 67,
-      "tags": [
-        "smartphones",
-        "samsung galaxy"
-      ],
+      "tags": ["smartphones", "samsung galaxy"],
       "brand": "Samsung",
       "sku": "SMA-SAM-SAM-131",
       "weight": 10,
@@ -7913,11 +7423,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/131_410.jpg",
-        "http://localhost:5000/api/images/131_412.jpg",
-        "http://localhost:5000/api/images/131_411.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_410.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_412.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_411.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/131_409.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_409.webp"
     },
     {
       "id": 132,
@@ -7928,10 +7438,7 @@
       "discountPercentage": 19.45,
       "rating": 4.4,
       "stock": 0,
-      "tags": [
-        "smartphones",
-        "samsung galaxy"
-      ],
+      "tags": ["smartphones", "samsung galaxy"],
       "brand": "Samsung",
       "sku": "SMA-SAM-SAM-132",
       "weight": 6,
@@ -7975,11 +7482,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/132_413.jpg",
-        "http://localhost:5000/api/images/132_415.jpg",
-        "http://localhost:5000/api/images/132_416.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_413.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_415.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_416.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/132_414.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_414.webp"
     },
     {
       "id": 133,
@@ -7990,10 +7497,7 @@
       "discountPercentage": 5.59,
       "rating": 3.06,
       "stock": 19,
-      "tags": [
-        "smartphones",
-        "samsung galaxy"
-      ],
+      "tags": ["smartphones", "samsung galaxy"],
       "brand": "Samsung",
       "sku": "SMA-SAM-SAM-133",
       "weight": 9,
@@ -8037,11 +7541,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/133_418.jpg",
-        "http://localhost:5000/api/images/133_419.jpg",
-        "http://localhost:5000/api/images/133_417.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_418.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_419.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_417.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/133_420.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_420.webp"
     },
     {
       "id": 134,
@@ -8052,10 +7556,7 @@
       "discountPercentage": 10.17,
       "rating": 3.5,
       "stock": 50,
-      "tags": [
-        "smartphones",
-        "vivo"
-      ],
+      "tags": ["smartphones", "vivo"],
       "brand": "Vivo",
       "sku": "SMA-VIV-VIV-134",
       "weight": 4,
@@ -8099,11 +7600,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/134_424.jpg",
-        "http://localhost:5000/api/images/134_423.jpg",
-        "http://localhost:5000/api/images/134_421.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_424.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_423.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_421.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/134_422.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_422.webp"
     },
     {
       "id": 135,
@@ -8114,10 +7615,7 @@
       "discountPercentage": 17.67,
       "rating": 3.6,
       "stock": 82,
-      "tags": [
-        "smartphones",
-        "vivo"
-      ],
+      "tags": ["smartphones", "vivo"],
       "brand": "Vivo",
       "sku": "SMA-VIV-VIV-135",
       "weight": 4,
@@ -8161,11 +7659,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/135_426.jpg",
-        "http://localhost:5000/api/images/135_428.jpg",
-        "http://localhost:5000/api/images/135_427.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_426.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_428.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_427.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/135_425.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_425.webp"
     },
     {
       "id": 136,
@@ -8176,10 +7674,7 @@
       "discountPercentage": 17.41,
       "rating": 4.26,
       "stock": 7,
-      "tags": [
-        "smartphones",
-        "vivo"
-      ],
+      "tags": ["smartphones", "vivo"],
       "brand": "Vivo",
       "sku": "SMA-VIV-VIV-136",
       "weight": 10,
@@ -8223,11 +7718,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/136_430.jpg",
-        "http://localhost:5000/api/images/136_432.jpg",
-        "http://localhost:5000/api/images/136_431.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_430.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_432.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_431.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/136_429.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_429.webp"
     },
     {
       "id": 137,
@@ -8238,10 +7733,7 @@
       "discountPercentage": 4.93,
       "rating": 4.91,
       "stock": 53,
-      "tags": [
-        "sports equipment",
-        "american football"
-      ],
+      "tags": ["sports equipment", "american football"],
       "sku": "SPO-BRD-AME-137",
       "weight": 2,
       "dimensions": {
@@ -8283,10 +7775,8 @@
         "barcode": "0984311727547",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/137_434.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/137_433.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/137_434.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/137_433.webp"
     },
     {
       "id": 138,
@@ -8297,10 +7787,7 @@
       "discountPercentage": 1.71,
       "rating": 2.57,
       "stock": 100,
-      "tags": [
-        "sports equipment",
-        "baseball"
-      ],
+      "tags": ["sports equipment", "baseball"],
       "sku": "SPO-BRD-BAS-138",
       "weight": 5,
       "dimensions": {
@@ -8342,10 +7829,8 @@
         "barcode": "8981184448425",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/138_436.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/138_435.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/138_436.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/138_435.webp"
     },
     {
       "id": 139,
@@ -8356,10 +7841,7 @@
       "discountPercentage": 2.9,
       "rating": 3.96,
       "stock": 22,
-      "tags": [
-        "sports equipment",
-        "baseball"
-      ],
+      "tags": ["sports equipment", "baseball"],
       "sku": "SPO-BRD-BAS-139",
       "weight": 1,
       "dimensions": {
@@ -8402,11 +7884,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/139_437.jpg",
-        "http://localhost:5000/api/images/139_439.jpg",
-        "http://localhost:5000/api/images/139_440.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_437.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_439.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_440.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/139_438.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_438.webp"
     },
     {
       "id": 140,
@@ -8417,10 +7899,7 @@
       "discountPercentage": 7.44,
       "rating": 4.66,
       "stock": 75,
-      "tags": [
-        "sports equipment",
-        "basketball"
-      ],
+      "tags": ["sports equipment", "basketball"],
       "sku": "SPO-BRD-BAS-140",
       "weight": 7,
       "dimensions": {
@@ -8462,10 +7941,8 @@
         "barcode": "3219724919696",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/140_441.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/140_442.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/140_441.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/140_442.webp"
     },
     {
       "id": 141,
@@ -8476,10 +7953,7 @@
       "discountPercentage": 7.74,
       "rating": 4.6,
       "stock": 43,
-      "tags": [
-        "sports equipment",
-        "basketball"
-      ],
+      "tags": ["sports equipment", "basketball"],
       "sku": "SPO-BRD-BAS-141",
       "weight": 1,
       "dimensions": {
@@ -8521,10 +7995,8 @@
         "barcode": "6916173283925",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/141_444.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/141_443.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/141_444.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/141_443.webp"
     },
     {
       "id": 142,
@@ -8535,10 +8007,7 @@
       "discountPercentage": 8.63,
       "rating": 3.53,
       "stock": 30,
-      "tags": [
-        "sports equipment",
-        "cricket"
-      ],
+      "tags": ["sports equipment", "cricket"],
       "sku": "SPO-BRD-CRI-142",
       "weight": 7,
       "dimensions": {
@@ -8580,10 +8049,8 @@
         "barcode": "0027512125380",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/142_446.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/142_445.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/142_446.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/142_445.webp"
     },
     {
       "id": 143,
@@ -8594,10 +8061,7 @@
       "discountPercentage": 3.29,
       "rating": 3.17,
       "stock": 98,
-      "tags": [
-        "sports equipment",
-        "cricket"
-      ],
+      "tags": ["sports equipment", "cricket"],
       "sku": "SPO-BRD-CRI-143",
       "weight": 10,
       "dimensions": {
@@ -8639,10 +8103,8 @@
         "barcode": "1225217575490",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/143_447.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/143_448.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/143_447.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/143_448.webp"
     },
     {
       "id": 144,
@@ -8653,10 +8115,7 @@
       "discountPercentage": 9.64,
       "rating": 4.69,
       "stock": 10,
-      "tags": [
-        "sports equipment",
-        "cricket"
-      ],
+      "tags": ["sports equipment", "cricket"],
       "sku": "SPO-BRD-CRI-144",
       "weight": 10,
       "dimensions": {
@@ -8699,12 +8158,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/144_449.jpg",
-        "http://localhost:5000/api/images/144_453.jpg",
-        "http://localhost:5000/api/images/144_452.jpg",
-        "http://localhost:5000/api/images/144_451.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_449.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_453.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_452.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_451.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/144_450.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_450.webp"
     },
     {
       "id": 145,
@@ -8715,10 +8174,7 @@
       "discountPercentage": 16.93,
       "rating": 4.73,
       "stock": 25,
-      "tags": [
-        "sports equipment",
-        "cricket"
-      ],
+      "tags": ["sports equipment", "cricket"],
       "sku": "SPO-BRD-CRI-145",
       "weight": 5,
       "dimensions": {
@@ -8760,10 +8216,8 @@
         "barcode": "9514466946651",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/145_455.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/145_454.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/145_455.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/145_454.webp"
     },
     {
       "id": 146,
@@ -8774,10 +8228,7 @@
       "discountPercentage": 2.95,
       "rating": 2.85,
       "stock": 95,
-      "tags": [
-        "sports equipment",
-        "badminton"
-      ],
+      "tags": ["sports equipment", "badminton"],
       "sku": "SPO-BRD-FEA-146",
       "weight": 4,
       "dimensions": {
@@ -8819,10 +8270,8 @@
         "barcode": "5360325610488",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/146_456.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/146_457.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/146_456.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/146_457.webp"
     },
     {
       "id": 147,
@@ -8833,10 +8282,7 @@
       "discountPercentage": 5.15,
       "rating": 3.28,
       "stock": 96,
-      "tags": [
-        "sports equipment",
-        "football"
-      ],
+      "tags": ["sports equipment", "football"],
       "sku": "SPO-BRD-FOO-147",
       "weight": 1,
       "dimensions": {
@@ -8878,10 +8324,8 @@
         "barcode": "7605305555987",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/147_458.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/147_459.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/147_458.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/147_459.webp"
     },
     {
       "id": 148,
@@ -8892,10 +8336,7 @@
       "discountPercentage": 17.37,
       "rating": 4.3,
       "stock": 84,
-      "tags": [
-        "sports equipment",
-        "golf"
-      ],
+      "tags": ["sports equipment", "golf"],
       "sku": "SPO-BRD-GOL-148",
       "weight": 3,
       "dimensions": {
@@ -8937,10 +8378,8 @@
         "barcode": "6940117186155",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/148_461.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/148_460.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/148_461.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/148_460.webp"
     },
     {
       "id": 149,
@@ -8951,10 +8390,7 @@
       "discountPercentage": 6.53,
       "rating": 4.41,
       "stock": 90,
-      "tags": [
-        "sports equipment",
-        "golf"
-      ],
+      "tags": ["sports equipment", "golf"],
       "sku": "SPO-BRD-IRO-149",
       "weight": 2,
       "dimensions": {
@@ -8996,10 +8432,8 @@
         "barcode": "4196059523236",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/149_462.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/149_463.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/149_462.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/149_463.webp"
     },
     {
       "id": 150,
@@ -9010,10 +8444,7 @@
       "discountPercentage": 19.51,
       "rating": 4.66,
       "stock": 16,
-      "tags": [
-        "sports equipment",
-        "baseball"
-      ],
+      "tags": ["sports equipment", "baseball"],
       "sku": "SPO-BRD-MET-150",
       "weight": 7,
       "dimensions": {
@@ -9055,10 +8486,8 @@
         "barcode": "7296388268295",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/150_464.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/150_465.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/150_464.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/150_465.webp"
     },
     {
       "id": 151,
@@ -9069,10 +8498,7 @@
       "discountPercentage": 11.76,
       "rating": 4.06,
       "stock": 28,
-      "tags": [
-        "sports equipment",
-        "tennis"
-      ],
+      "tags": ["sports equipment", "tennis"],
       "sku": "SPO-BRD-TEN-151",
       "weight": 3,
       "dimensions": {
@@ -9114,10 +8540,8 @@
         "barcode": "2793132647969",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/151_466.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/151_467.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/151_466.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/151_467.webp"
     },
     {
       "id": 152,
@@ -9128,10 +8552,7 @@
       "discountPercentage": 19.61,
       "rating": 4.03,
       "stock": 6,
-      "tags": [
-        "sports equipment",
-        "tennis"
-      ],
+      "tags": ["sports equipment", "tennis"],
       "sku": "SPO-BRD-TEN-152",
       "weight": 7,
       "dimensions": {
@@ -9173,10 +8594,8 @@
         "barcode": "5611498376196",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/152_469.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/152_468.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/152_469.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/152_468.webp"
     },
     {
       "id": 153,
@@ -9187,10 +8606,7 @@
       "discountPercentage": 12.25,
       "rating": 3.84,
       "stock": 0,
-      "tags": [
-        "sports equipment",
-        "volleyball"
-      ],
+      "tags": ["sports equipment", "volleyball"],
       "sku": "SPO-BRD-VOL-153",
       "weight": 3,
       "dimensions": {
@@ -9232,10 +8648,8 @@
         "barcode": "6348576170594",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": [
-        "http://localhost:5000/api/images/153_471.jpg"
-      ],
-      "thumbnail": "http://localhost:5000/api/images/153_470.jpg"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/153_471.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/153_470.webp"
     },
     {
       "id": 154,
@@ -9246,10 +8660,7 @@
       "discountPercentage": 4.94,
       "rating": 4.41,
       "stock": 60,
-      "tags": [
-        "eyewear",
-        "sunglasses"
-      ],
+      "tags": ["eyewear", "sunglasses"],
       "brand": "Fashion Shades",
       "sku": "SUN-FAS-BLA-154",
       "weight": 1,
@@ -9293,11 +8704,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/154_475.jpg",
-        "http://localhost:5000/api/images/154_472.jpg",
-        "http://localhost:5000/api/images/154_473.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_475.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_472.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_473.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/154_474.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_474.webp"
     },
     {
       "id": 155,
@@ -9308,10 +8719,7 @@
       "discountPercentage": 4.94,
       "rating": 3.86,
       "stock": 1,
-      "tags": [
-        "eyewear",
-        "sunglasses"
-      ],
+      "tags": ["eyewear", "sunglasses"],
       "brand": "Fashion Shades",
       "sku": "SUN-FAS-CLA-155",
       "weight": 8,
@@ -9355,11 +8763,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/155_478.jpg",
-        "http://localhost:5000/api/images/155_477.jpg",
-        "http://localhost:5000/api/images/155_476.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_478.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_477.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_476.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/155_479.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_479.webp"
     },
     {
       "id": 156,
@@ -9370,10 +8778,7 @@
       "discountPercentage": 1.01,
       "rating": 4.55,
       "stock": 24,
-      "tags": [
-        "eyewear",
-        "sunglasses"
-      ],
+      "tags": ["eyewear", "sunglasses"],
       "brand": "Fashion Shades",
       "sku": "SUN-FAS-GRE-156",
       "weight": 7,
@@ -9417,11 +8822,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/156_483.jpg",
-        "http://localhost:5000/api/images/156_482.jpg",
-        "http://localhost:5000/api/images/156_481.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_483.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_482.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_481.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/156_480.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_480.webp"
     },
     {
       "id": 157,
@@ -9432,10 +8837,7 @@
       "discountPercentage": 11.22,
       "rating": 2.79,
       "stock": 86,
-      "tags": [
-        "eyewear",
-        "party glasses"
-      ],
+      "tags": ["eyewear", "party glasses"],
       "brand": "Fashion Fun",
       "sku": "SUN-FAS-PAR-157",
       "weight": 9,
@@ -9479,11 +8881,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/157_485.jpg",
-        "http://localhost:5000/api/images/157_487.jpg",
-        "http://localhost:5000/api/images/157_486.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_485.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_487.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_486.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/157_484.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_484.webp"
     },
     {
       "id": 158,
@@ -9494,10 +8896,7 @@
       "discountPercentage": 1.51,
       "rating": 3.02,
       "stock": 27,
-      "tags": [
-        "eyewear",
-        "sunglasses"
-      ],
+      "tags": ["eyewear", "sunglasses"],
       "brand": "Fashion Shades",
       "sku": "SUN-FAS-SUN-158",
       "weight": 1,
@@ -9541,11 +8940,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/158_488.jpg",
-        "http://localhost:5000/api/images/158_489.jpg",
-        "http://localhost:5000/api/images/158_491.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_488.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_489.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_491.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/158_490.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_490.webp"
     },
     {
       "id": 159,
@@ -9556,10 +8955,7 @@
       "discountPercentage": 3.64,
       "rating": 3.18,
       "stock": 47,
-      "tags": [
-        "electronics",
-        "tablets"
-      ],
+      "tags": ["electronics", "tablets"],
       "brand": "Apple",
       "sku": "TAB-APP-IPA-159",
       "weight": 5,
@@ -9603,12 +8999,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/159_492.jpg",
-        "http://localhost:5000/api/images/159_493.jpg",
-        "http://localhost:5000/api/images/159_494.jpg",
-        "http://localhost:5000/api/images/159_496.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_492.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_493.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_494.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_496.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/159_495.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_495.webp"
     },
     {
       "id": 160,
@@ -9619,10 +9015,7 @@
       "discountPercentage": 13.31,
       "rating": 4.68,
       "stock": 62,
-      "tags": [
-        "electronics",
-        "tablets"
-      ],
+      "tags": ["electronics", "tablets"],
       "brand": "Samsung",
       "sku": "TAB-SAM-SAM-160",
       "weight": 1,
@@ -9666,12 +9059,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/160_499.jpg",
-        "http://localhost:5000/api/images/160_497.jpg",
-        "http://localhost:5000/api/images/160_498.jpg",
-        "http://localhost:5000/api/images/160_501.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_499.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_497.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_498.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_501.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/160_500.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_500.webp"
     },
     {
       "id": 161,
@@ -9682,10 +9075,7 @@
       "discountPercentage": 18.2,
       "rating": 3.72,
       "stock": 92,
-      "tags": [
-        "electronics",
-        "tablets"
-      ],
+      "tags": ["electronics", "tablets"],
       "brand": "Samsung",
       "sku": "TAB-SAM-SAM-161",
       "weight": 5,
@@ -9729,12 +9119,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/161_502.jpg",
-        "http://localhost:5000/api/images/161_504.jpg",
-        "http://localhost:5000/api/images/161_503.jpg",
-        "http://localhost:5000/api/images/161_506.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_502.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_504.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_503.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_506.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/161_505.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_505.webp"
     },
     {
       "id": 162,
@@ -9745,10 +9135,7 @@
       "discountPercentage": 12.13,
       "rating": 4.17,
       "stock": 52,
-      "tags": [
-        "clothing",
-        "dresses"
-      ],
+      "tags": ["clothing", "dresses"],
       "sku": "TOP-BRD-BLU-162",
       "weight": 5,
       "dimensions": {
@@ -9791,12 +9178,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/162_509.jpg",
-        "http://localhost:5000/api/images/162_508.jpg",
-        "http://localhost:5000/api/images/162_510.jpg",
-        "http://localhost:5000/api/images/162_511.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_509.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_508.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_510.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_511.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/162_507.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_507.webp"
     },
     {
       "id": 163,
@@ -9807,10 +9194,7 @@
       "discountPercentage": 19.2,
       "rating": 4.77,
       "stock": 43,
-      "tags": [
-        "clothing",
-        "girls' dresses"
-      ],
+      "tags": ["clothing", "girls' dresses"],
       "sku": "TOP-BRD-GIR-163",
       "weight": 5,
       "dimensions": {
@@ -9853,12 +9237,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/163_512.jpg",
-        "http://localhost:5000/api/images/163_513.jpg",
-        "http://localhost:5000/api/images/163_515.jpg",
-        "http://localhost:5000/api/images/163_516.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_512.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_513.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_515.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_516.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/163_514.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_514.webp"
     },
     {
       "id": 164,
@@ -9869,10 +9253,7 @@
       "discountPercentage": 14.28,
       "rating": 2.72,
       "stock": 55,
-      "tags": [
-        "clothing",
-        "dresses"
-      ],
+      "tags": ["clothing", "dresses"],
       "sku": "TOP-BRD-GRA-164",
       "weight": 1,
       "dimensions": {
@@ -9915,12 +9296,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/164_517.jpg",
-        "http://localhost:5000/api/images/164_519.jpg",
-        "http://localhost:5000/api/images/164_520.jpg",
-        "http://localhost:5000/api/images/164_521.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_517.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_519.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_520.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_521.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/164_518.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_518.webp"
     },
     {
       "id": 165,
@@ -9931,10 +9312,7 @@
       "discountPercentage": 13.45,
       "rating": 3.23,
       "stock": 22,
-      "tags": [
-        "clothing",
-        "dresses"
-      ],
+      "tags": ["clothing", "dresses"],
       "sku": "TOP-BRD-SHO-165",
       "weight": 10,
       "dimensions": {
@@ -9977,12 +9355,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/165_522.jpg",
-        "http://localhost:5000/api/images/165_525.jpg",
-        "http://localhost:5000/api/images/165_524.jpg",
-        "http://localhost:5000/api/images/165_526.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_522.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_525.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_524.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_526.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/165_523.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_523.webp"
     },
     {
       "id": 166,
@@ -9993,10 +9371,7 @@
       "discountPercentage": 12.95,
       "rating": 4.05,
       "stock": 73,
-      "tags": [
-        "clothing",
-        "dresses"
-      ],
+      "tags": ["clothing", "dresses"],
       "sku": "TOP-BRD-TAR-166",
       "weight": 8,
       "dimensions": {
@@ -10039,12 +9414,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/166_527.jpg",
-        "http://localhost:5000/api/images/166_529.jpg",
-        "http://localhost:5000/api/images/166_530.jpg",
-        "http://localhost:5000/api/images/166_531.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_527.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_529.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_530.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_531.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/166_528.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_528.webp"
     },
     {
       "id": 167,
@@ -10055,10 +9430,7 @@
       "discountPercentage": 3.98,
       "rating": 4.05,
       "stock": 54,
-      "tags": [
-        "sedans",
-        "vehicles"
-      ],
+      "tags": ["sedans", "vehicles"],
       "brand": "Chrysler",
       "sku": "VEH-CHR-TOU-167",
       "weight": 9,
@@ -10102,14 +9474,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/167_533.jpg",
-        "http://localhost:5000/api/images/167_535.jpg",
-        "http://localhost:5000/api/images/167_534.jpg",
-        "http://localhost:5000/api/images/167_538.jpg",
-        "http://localhost:5000/api/images/167_537.jpg",
-        "http://localhost:5000/api/images/167_536.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_533.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_535.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_534.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_538.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_537.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_536.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/167_532.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_532.webp"
     },
     {
       "id": 168,
@@ -10120,11 +9492,7 @@
       "discountPercentage": 8.23,
       "rating": 2.58,
       "stock": 57,
-      "tags": [
-        "sedans",
-        "sports cars",
-        "vehicles"
-      ],
+      "tags": ["sedans", "sports cars", "vehicles"],
       "brand": "Dodge",
       "sku": "VEH-DOD-CHA-168",
       "weight": 6,
@@ -10168,14 +9536,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/168_540.jpg",
-        "http://localhost:5000/api/images/168_542.jpg",
-        "http://localhost:5000/api/images/168_544.jpg",
-        "http://localhost:5000/api/images/168_545.jpg",
-        "http://localhost:5000/api/images/168_543.jpg",
-        "http://localhost:5000/api/images/168_541.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_540.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_542.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_544.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_545.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_543.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_541.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/168_539.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_539.webp"
     },
     {
       "id": 169,
@@ -10186,11 +9554,7 @@
       "discountPercentage": 2.63,
       "rating": 2.65,
       "stock": 82,
-      "tags": [
-        "hatchbacks",
-        "compact cars",
-        "vehicles"
-      ],
+      "tags": ["hatchbacks", "compact cars", "vehicles"],
       "brand": "Dodge",
       "sku": "VEH-DOD-DOD-169",
       "weight": 8,
@@ -10234,14 +9598,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/169_549.jpg",
-        "http://localhost:5000/api/images/169_550.jpg",
-        "http://localhost:5000/api/images/169_547.jpg",
-        "http://localhost:5000/api/images/169_546.jpg",
-        "http://localhost:5000/api/images/169_552.jpg",
-        "http://localhost:5000/api/images/169_551.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_549.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_550.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_547.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_546.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_552.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_551.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/169_548.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_548.webp"
     },
     {
       "id": 170,
@@ -10252,10 +9616,7 @@
       "discountPercentage": 16.44,
       "rating": 4.07,
       "stock": 95,
-      "tags": [
-        "suvs",
-        "vehicles"
-      ],
+      "tags": ["suvs", "vehicles"],
       "brand": "Dodge",
       "sku": "VEH-DOD-DUR-170",
       "weight": 1,
@@ -10299,14 +9660,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/170_553.jpg",
-        "http://localhost:5000/api/images/170_555.jpg",
-        "http://localhost:5000/api/images/170_557.jpg",
-        "http://localhost:5000/api/images/170_558.jpg",
-        "http://localhost:5000/api/images/170_559.jpg",
-        "http://localhost:5000/api/images/170_556.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_553.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_555.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_557.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_558.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_559.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_556.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/170_554.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_554.webp"
     },
     {
       "id": 171,
@@ -10317,10 +9678,7 @@
       "discountPercentage": 14.76,
       "rating": 3.62,
       "stock": 53,
-      "tags": [
-        "minivans",
-        "vehicles"
-      ],
+      "tags": ["minivans", "vehicles"],
       "brand": "Chrysler",
       "sku": "VEH-CHR-PAC-171",
       "weight": 9,
@@ -10364,14 +9722,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/171_564.jpg",
-        "http://localhost:5000/api/images/171_565.jpg",
-        "http://localhost:5000/api/images/171_563.jpg",
-        "http://localhost:5000/api/images/171_562.jpg",
-        "http://localhost:5000/api/images/171_561.jpg",
-        "http://localhost:5000/api/images/171_566.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_564.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_565.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_563.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_562.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_561.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_566.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/171_560.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_560.webp"
     },
     {
       "id": 172,
@@ -10382,10 +9740,7 @@
       "discountPercentage": 17.88,
       "rating": 2.92,
       "stock": 76,
-      "tags": [
-        "fashion accessories",
-        "handbags"
-      ],
+      "tags": ["fashion accessories", "handbags"],
       "brand": "Fashionista",
       "sku": "WOM-FAS-BLU-172",
       "weight": 7,
@@ -10429,11 +9784,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/172_569.jpg",
-        "http://localhost:5000/api/images/172_568.jpg",
-        "http://localhost:5000/api/images/172_570.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_569.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_568.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_570.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/172_567.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_567.webp"
     },
     {
       "id": 173,
@@ -10444,10 +9799,7 @@
       "discountPercentage": 3.87,
       "rating": 4.92,
       "stock": 99,
-      "tags": [
-        "fashion accessories",
-        "leather bags"
-      ],
+      "tags": ["fashion accessories", "leather bags"],
       "brand": "Heshe",
       "sku": "WOM-HES-HES-173",
       "weight": 3,
@@ -10491,11 +9843,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/173_574.jpg",
-        "http://localhost:5000/api/images/173_571.jpg",
-        "http://localhost:5000/api/images/173_573.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_574.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_571.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_573.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/173_572.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_572.webp"
     },
     {
       "id": 174,
@@ -10506,10 +9858,7 @@
       "discountPercentage": 14.09,
       "rating": 2.71,
       "stock": 75,
-      "tags": [
-        "fashion accessories",
-        "designer bags"
-      ],
+      "tags": ["fashion accessories", "designer bags"],
       "brand": "Prada",
       "sku": "WOM-PRA-PRA-174",
       "weight": 4,
@@ -10553,11 +9902,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/174_577.jpg",
-        "http://localhost:5000/api/images/174_576.jpg",
-        "http://localhost:5000/api/images/174_578.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_577.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_576.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_578.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/174_575.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_575.webp"
     },
     {
       "id": 175,
@@ -10568,10 +9917,7 @@
       "discountPercentage": 15.2,
       "rating": 3.36,
       "stock": 39,
-      "tags": [
-        "fashion accessories",
-        "backpacks"
-      ],
+      "tags": ["fashion accessories", "backpacks"],
       "brand": "Urban Chic",
       "sku": "WOM-URB-WHI-175",
       "weight": 7,
@@ -10615,11 +9961,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/175_580.jpg",
-        "http://localhost:5000/api/images/175_582.jpg",
-        "http://localhost:5000/api/images/175_581.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_580.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_582.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_581.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/175_579.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_579.webp"
     },
     {
       "id": 176,
@@ -10630,10 +9976,7 @@
       "discountPercentage": 11.63,
       "rating": 2.89,
       "stock": 11,
-      "tags": [
-        "fashion accessories",
-        "handbags"
-      ],
+      "tags": ["fashion accessories", "handbags"],
       "brand": "Elegance Collection",
       "sku": "WOM-ELE-WOM-176",
       "weight": 6,
@@ -10677,11 +10020,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/176_585.jpg",
-        "http://localhost:5000/api/images/176_584.jpg",
-        "http://localhost:5000/api/images/176_586.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_585.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_584.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_586.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/176_583.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_583.webp"
     },
     {
       "id": 177,
@@ -10692,10 +10035,7 @@
       "discountPercentage": 10.48,
       "rating": 3.64,
       "stock": 25,
-      "tags": [
-        "clothing",
-        "gowns"
-      ],
+      "tags": ["clothing", "gowns"],
       "sku": "WOM-BRD-BLA-177",
       "weight": 2,
       "dimensions": {
@@ -10738,12 +10078,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/177_588.jpg",
-        "http://localhost:5000/api/images/177_589.jpg",
-        "http://localhost:5000/api/images/177_590.jpg",
-        "http://localhost:5000/api/images/177_591.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_588.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_589.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_590.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_591.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/177_587.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_587.webp"
     },
     {
       "id": 178,
@@ -10754,11 +10094,7 @@
       "discountPercentage": 16.26,
       "rating": 3.05,
       "stock": 30,
-      "tags": [
-        "clothing",
-        "corsets",
-        "skirts"
-      ],
+      "tags": ["clothing", "corsets", "skirts"],
       "sku": "WOM-BRD-COR-178",
       "weight": 1,
       "dimensions": {
@@ -10801,12 +10137,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/178_592.jpg",
-        "http://localhost:5000/api/images/178_595.jpg",
-        "http://localhost:5000/api/images/178_593.jpg",
-        "http://localhost:5000/api/images/178_596.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_592.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_595.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_593.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_596.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/178_594.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_594.webp"
     },
     {
       "id": 179,
@@ -10817,11 +10153,7 @@
       "discountPercentage": 15.06,
       "rating": 4.52,
       "stock": 33,
-      "tags": [
-        "clothing",
-        "corsets",
-        "skirts"
-      ],
+      "tags": ["clothing", "corsets", "skirts"],
       "sku": "WOM-BRD-COR-179",
       "weight": 7,
       "dimensions": {
@@ -10864,12 +10196,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/179_598.jpg",
-        "http://localhost:5000/api/images/179_597.jpg",
-        "http://localhost:5000/api/images/179_600.jpg",
-        "http://localhost:5000/api/images/179_601.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_598.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_597.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_600.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_601.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/179_599.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_599.webp"
     },
     {
       "id": 180,
@@ -10880,10 +10212,7 @@
       "discountPercentage": 17.68,
       "rating": 4.88,
       "stock": 6,
-      "tags": [
-        "clothing",
-        "dresses"
-      ],
+      "tags": ["clothing", "dresses"],
       "sku": "WOM-BRD-DRE-180",
       "weight": 1,
       "dimensions": {
@@ -10926,12 +10255,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/180_605.jpg",
-        "http://localhost:5000/api/images/180_603.jpg",
-        "http://localhost:5000/api/images/180_604.jpg",
-        "http://localhost:5000/api/images/180_606.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_605.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_603.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_604.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_606.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/180_602.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_602.webp"
     },
     {
       "id": 181,
@@ -10942,10 +10271,7 @@
       "discountPercentage": 19.02,
       "rating": 4.48,
       "stock": 62,
-      "tags": [
-        "clothing",
-        "suits"
-      ],
+      "tags": ["clothing", "suits"],
       "sku": "WOM-BRD-MAR-181",
       "weight": 3,
       "dimensions": {
@@ -10988,12 +10314,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/181_607.jpg",
-        "http://localhost:5000/api/images/181_608.jpg",
-        "http://localhost:5000/api/images/181_610.jpg",
-        "http://localhost:5000/api/images/181_611.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_607.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_608.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_610.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_611.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/181_609.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_609.webp"
     },
     {
       "id": 182,
@@ -11004,10 +10330,7 @@
       "discountPercentage": 15.24,
       "rating": 3.96,
       "stock": 54,
-      "tags": [
-        "fashion accessories",
-        "earrings"
-      ],
+      "tags": ["fashion accessories", "earrings"],
       "sku": "WOM-BRD-GRE-182",
       "weight": 2,
       "dimensions": {
@@ -11050,11 +10373,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/182_612.jpg",
-        "http://localhost:5000/api/images/182_613.jpg",
-        "http://localhost:5000/api/images/182_615.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_612.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_613.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_615.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/182_614.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_614.webp"
     },
     {
       "id": 183,
@@ -11065,10 +10388,7 @@
       "discountPercentage": 15.18,
       "rating": 3.57,
       "stock": 73,
-      "tags": [
-        "fashion accessories",
-        "earrings"
-      ],
+      "tags": ["fashion accessories", "earrings"],
       "sku": "WOM-BRD-GRE-183",
       "weight": 10,
       "dimensions": {
@@ -11111,11 +10431,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/183_618.jpg",
-        "http://localhost:5000/api/images/183_617.jpg",
-        "http://localhost:5000/api/images/183_616.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_618.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_617.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_616.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/183_619.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_619.webp"
     },
     {
       "id": 184,
@@ -11126,10 +10446,7 @@
       "discountPercentage": 0.76,
       "rating": 4.4,
       "stock": 1,
-      "tags": [
-        "fashion accessories",
-        "earrings"
-      ],
+      "tags": ["fashion accessories", "earrings"],
       "sku": "WOM-BRD-TRO-184",
       "weight": 3,
       "dimensions": {
@@ -11172,11 +10489,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/184_623.jpg",
-        "http://localhost:5000/api/images/184_622.jpg",
-        "http://localhost:5000/api/images/184_621.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_623.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_622.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_621.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/184_620.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_620.webp"
     },
     {
       "id": 185,
@@ -11187,10 +10504,7 @@
       "discountPercentage": 3.33,
       "rating": 2.53,
       "stock": 3,
-      "tags": [
-        "footwear",
-        "slippers"
-      ],
+      "tags": ["footwear", "slippers"],
       "brand": "Comfort Trends",
       "sku": "WOM-COM-BLA-185",
       "weight": 5,
@@ -11234,12 +10548,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/185_625.jpg",
-        "http://localhost:5000/api/images/185_628.jpg",
-        "http://localhost:5000/api/images/185_627.jpg",
-        "http://localhost:5000/api/images/185_626.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_625.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_628.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_627.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_626.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/185_624.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_624.webp"
     },
     {
       "id": 186,
@@ -11250,10 +10564,7 @@
       "discountPercentage": 3.19,
       "rating": 4.92,
       "stock": 93,
-      "tags": [
-        "footwear",
-        "heel shoes"
-      ],
+      "tags": ["footwear", "heel shoes"],
       "brand": "Calvin Klein",
       "sku": "WOM-CAL-CAL-186",
       "weight": 6,
@@ -11297,12 +10608,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/186_630.jpg",
-        "http://localhost:5000/api/images/186_633.jpg",
-        "http://localhost:5000/api/images/186_632.jpg",
-        "http://localhost:5000/api/images/186_631.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_630.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_633.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_632.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_631.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/186_629.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_629.webp"
     },
     {
       "id": 187,
@@ -11313,10 +10624,7 @@
       "discountPercentage": 13.93,
       "rating": 3.26,
       "stock": 88,
-      "tags": [
-        "footwear",
-        "women's shoes"
-      ],
+      "tags": ["footwear", "women's shoes"],
       "brand": "Fashion Diva",
       "sku": "WOM-FAS-GOL-187",
       "weight": 4,
@@ -11360,12 +10668,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/187_635.jpg",
-        "http://localhost:5000/api/images/187_637.jpg",
-        "http://localhost:5000/api/images/187_638.jpg",
-        "http://localhost:5000/api/images/187_636.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_635.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_637.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_638.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_636.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/187_634.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_634.webp"
     },
     {
       "id": 188,
@@ -11376,10 +10684,7 @@
       "discountPercentage": 14.14,
       "rating": 3.05,
       "stock": 49,
-      "tags": [
-        "footwear",
-        "casual shoes"
-      ],
+      "tags": ["footwear", "casual shoes"],
       "brand": "Pampi",
       "sku": "WOM-PAM-PAM-188",
       "weight": 7,
@@ -11423,12 +10728,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/188_640.jpg",
-        "http://localhost:5000/api/images/188_643.jpg",
-        "http://localhost:5000/api/images/188_642.jpg",
-        "http://localhost:5000/api/images/188_641.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_640.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_643.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_642.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_641.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/188_639.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_639.webp"
     },
     {
       "id": 189,
@@ -11439,10 +10744,7 @@
       "discountPercentage": 17.69,
       "rating": 3.25,
       "stock": 7,
-      "tags": [
-        "footwear",
-        "women's shoes"
-      ],
+      "tags": ["footwear", "women's shoes"],
       "brand": "Fashion Express",
       "sku": "WOM-FAS-SHO-189",
       "weight": 10,
@@ -11486,12 +10788,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/189_645.jpg",
-        "http://localhost:5000/api/images/189_648.jpg",
-        "http://localhost:5000/api/images/189_647.jpg",
-        "http://localhost:5000/api/images/189_646.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_645.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_648.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_647.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_646.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/189_644.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_644.webp"
     },
     {
       "id": 190,
@@ -11502,10 +10804,7 @@
       "discountPercentage": 9.45,
       "rating": 2.93,
       "stock": 90,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "IWC",
       "sku": "WOM-IWC-ING-190",
       "weight": 3,
@@ -11549,11 +10848,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/190_650.jpg",
-        "http://localhost:5000/api/images/190_652.jpg",
-        "http://localhost:5000/api/images/190_651.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_650.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_652.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_651.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/190_649.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_649.webp"
     },
     {
       "id": 191,
@@ -11564,10 +10863,7 @@
       "discountPercentage": 4.11,
       "rating": 3.83,
       "stock": 52,
-      "tags": [
-        "watches",
-        "luxury watches"
-      ],
+      "tags": ["watches", "luxury watches"],
       "brand": "Rolex",
       "sku": "WOM-ROL-ROL-191",
       "weight": 10,
@@ -11611,11 +10907,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/191_653.jpg",
-        "http://localhost:5000/api/images/191_654.jpg",
-        "http://localhost:5000/api/images/191_656.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_653.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_654.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_656.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/191_655.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_655.webp"
     },
     {
       "id": 192,
@@ -11626,11 +10922,7 @@
       "discountPercentage": 15.94,
       "rating": 2.86,
       "stock": 4,
-      "tags": [
-        "watches",
-        "luxury watches",
-        "women's watches"
-      ],
+      "tags": ["watches", "luxury watches", "women's watches"],
       "brand": "Rolex",
       "sku": "WOM-ROL-ROL-192",
       "weight": 3,
@@ -11674,11 +10966,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/192_657.jpg",
-        "http://localhost:5000/api/images/192_660.jpg",
-        "http://localhost:5000/api/images/192_659.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_657.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_660.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_659.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/192_658.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_658.webp"
     },
     {
       "id": 193,
@@ -11689,10 +10981,7 @@
       "discountPercentage": 18.34,
       "rating": 4.24,
       "stock": 0,
-      "tags": [
-        "watches",
-        "women's watches"
-      ],
+      "tags": ["watches", "women's watches"],
       "brand": "Fashion Gold",
       "sku": "WOM-FAS-WAT-193",
       "weight": 1,
@@ -11736,11 +11025,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/193_662.jpg",
-        "http://localhost:5000/api/images/193_664.jpg",
-        "http://localhost:5000/api/images/193_661.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_662.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_664.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_661.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/193_663.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_663.webp"
     },
     {
       "id": 194,
@@ -11751,10 +11040,7 @@
       "discountPercentage": 12.6,
       "rating": 3.52,
       "stock": 12,
-      "tags": [
-        "watches",
-        "women's watches"
-      ],
+      "tags": ["watches", "women's watches"],
       "brand": "Fashion Co.",
       "sku": "WOM-FAS-WOM-194",
       "weight": 1,
@@ -11798,11 +11084,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/194_667.jpg",
-        "http://localhost:5000/api/images/194_668.jpg",
-        "http://localhost:5000/api/images/194_666.jpg"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_667.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_668.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_666.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/194_665.jpg"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_665.webp"
     }
   ],
   "total": 194,
