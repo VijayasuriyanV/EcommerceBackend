@@ -52,8 +52,8 @@
         "barcode": "5784719087687",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/1_2.webp"],
-      "thumbnail": "http://localhost:5000/api/images/1_1.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/1_2.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/1_1.webp"
     },
     {
       "id": 2,
@@ -107,8 +107,8 @@
         "barcode": "9170275171413",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/2_4.webp"],
-      "thumbnail": "http://localhost:5000/api/images/2_3.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/2_4.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/2_3.webp"
     },
     {
       "id": 3,
@@ -162,8 +162,8 @@
         "barcode": "8418883906837",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/3_6.webp"],
-      "thumbnail": "http://localhost:5000/api/images/3_5.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/3_6.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/3_5.webp"
     },
     {
       "id": 4,
@@ -217,8 +217,8 @@
         "barcode": "9467746727219",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/4_8.webp"],
-      "thumbnail": "http://localhost:5000/api/images/4_7.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/4_8.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/4_7.webp"
     },
     {
       "id": 5,
@@ -272,8 +272,8 @@
         "barcode": "4063010628104",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/5_10.webp"],
-      "thumbnail": "http://localhost:5000/api/images/5_9.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/5_10.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/5_9.webp"
     },
     {
       "id": 6,
@@ -328,11 +328,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/6_12.webp",
-        "http://localhost:5000/api/images/6_11.webp",
-        "http://localhost:5000/api/images/6_13.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_12.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_11.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_13.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/6_14.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/6_14.webp"
     },
     {
       "id": 7,
@@ -387,11 +387,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/7_18.webp",
-        "http://localhost:5000/api/images/7_17.webp",
-        "http://localhost:5000/api/images/7_16.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_18.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_17.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_16.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/7_15.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/7_15.webp"
     },
     {
       "id": 8,
@@ -446,11 +446,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/8_20.webp",
-        "http://localhost:5000/api/images/8_22.webp",
-        "http://localhost:5000/api/images/8_21.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_20.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_22.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_21.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/8_19.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/8_19.webp"
     },
     {
       "id": 9,
@@ -505,11 +505,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/9_25.webp",
-        "http://localhost:5000/api/images/9_24.webp",
-        "http://localhost:5000/api/images/9_26.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_25.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_24.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_26.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/9_23.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/9_23.webp"
     },
     {
       "id": 10,
@@ -564,11 +564,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/10_30.webp",
-        "http://localhost:5000/api/images/10_27.webp",
-        "http://localhost:5000/api/images/10_29.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_30.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_27.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_29.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/10_28.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/10_28.webp"
     },
     {
       "id": 11,
@@ -623,11 +623,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/11_33.webp",
-        "http://localhost:5000/api/images/11_32.webp",
-        "http://localhost:5000/api/images/11_34.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_33.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_32.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_34.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/11_31.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/11_31.webp"
     },
     {
       "id": 12,
@@ -682,11 +682,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/12_36.webp",
-        "http://localhost:5000/api/images/12_38.webp",
-        "http://localhost:5000/api/images/12_37.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_36.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_38.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_37.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/12_35.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/12_35.webp"
     },
     {
       "id": 13,
@@ -741,11 +741,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/13_40.webp",
-        "http://localhost:5000/api/images/13_41.webp",
-        "http://localhost:5000/api/images/13_42.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_40.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_41.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_42.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/13_39.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/13_39.webp"
     },
     {
       "id": 14,
@@ -800,11 +800,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/14_44.webp",
-        "http://localhost:5000/api/images/14_45.webp",
-        "http://localhost:5000/api/images/14_46.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_44.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_45.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_46.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/14_43.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/14_43.webp"
     },
     {
       "id": 15,
@@ -859,11 +859,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/15_49.webp",
-        "http://localhost:5000/api/images/15_48.webp",
-        "http://localhost:5000/api/images/15_50.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_49.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_48.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_50.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/15_47.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/15_47.webp"
     },
     {
       "id": 16,
@@ -916,8 +916,8 @@
         "barcode": "7962803553314",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/16_52.webp"],
-      "thumbnail": "http://localhost:5000/api/images/16_51.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/16_52.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/16_51.webp"
     },
     {
       "id": 17,
@@ -970,8 +970,8 @@
         "barcode": "5640063409695",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/17_53.webp"],
-      "thumbnail": "http://localhost:5000/api/images/17_54.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/17_53.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/17_54.webp"
     },
     {
       "id": 18,
@@ -1024,8 +1024,8 @@
         "barcode": "1483991328610",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/18_56.webp"],
-      "thumbnail": "http://localhost:5000/api/images/18_55.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/18_56.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/18_55.webp"
     },
     {
       "id": 19,
@@ -1079,10 +1079,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/19_58.webp",
-        "http://localhost:5000/api/images/19_59.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_58.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_59.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/19_57.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/19_57.webp"
     },
     {
       "id": 20,
@@ -1135,8 +1135,8 @@
         "barcode": "4874727824518",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/20_61.webp"],
-      "thumbnail": "http://localhost:5000/api/images/20_60.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/20_61.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/20_60.webp"
     },
     {
       "id": 21,
@@ -1189,8 +1189,8 @@
         "barcode": "5300066378225",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/21_63.webp"],
-      "thumbnail": "http://localhost:5000/api/images/21_62.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/21_63.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/21_62.webp"
     },
     {
       "id": 22,
@@ -1243,8 +1243,8 @@
         "barcode": "5906686116469",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/22_65.webp"],
-      "thumbnail": "http://localhost:5000/api/images/22_64.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/22_65.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/22_64.webp"
     },
     {
       "id": 23,
@@ -1297,8 +1297,8 @@
         "barcode": "3478638588469",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/23_67.webp"],
-      "thumbnail": "http://localhost:5000/api/images/23_66.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/23_67.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/23_66.webp"
     },
     {
       "id": 24,
@@ -1351,8 +1351,8 @@
         "barcode": "9595036192098",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/24_69.webp"],
-      "thumbnail": "http://localhost:5000/api/images/24_68.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/24_69.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/24_68.webp"
     },
     {
       "id": 25,
@@ -1405,8 +1405,8 @@
         "barcode": "2365227493323",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/25_71.webp"],
-      "thumbnail": "http://localhost:5000/api/images/25_70.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/25_71.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/25_70.webp"
     },
     {
       "id": 26,
@@ -1459,8 +1459,8 @@
         "barcode": "9335000538563",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/26_73.webp"],
-      "thumbnail": "http://localhost:5000/api/images/26_72.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/26_73.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/26_72.webp"
     },
     {
       "id": 27,
@@ -1513,8 +1513,8 @@
         "barcode": "6354306346329",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/27_75.webp"],
-      "thumbnail": "http://localhost:5000/api/images/27_74.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/27_75.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/27_74.webp"
     },
     {
       "id": 28,
@@ -1568,12 +1568,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/28_77.webp",
-        "http://localhost:5000/api/images/28_80.webp",
-        "http://localhost:5000/api/images/28_78.webp",
-        "http://localhost:5000/api/images/28_79.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_77.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_80.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_78.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_79.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/28_76.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/28_76.webp"
     },
     {
       "id": 29,
@@ -1626,8 +1626,8 @@
         "barcode": "6936112580956",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/29_82.webp"],
-      "thumbnail": "http://localhost:5000/api/images/29_81.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/29_82.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/29_81.webp"
     },
     {
       "id": 30,
@@ -1680,8 +1680,8 @@
         "barcode": "2530169917252",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/30_84.webp"],
-      "thumbnail": "http://localhost:5000/api/images/30_83.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/30_84.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/30_83.webp"
     },
     {
       "id": 31,
@@ -1734,8 +1734,8 @@
         "barcode": "4871812433378",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/31_86.webp"],
-      "thumbnail": "http://localhost:5000/api/images/31_85.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/31_86.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/31_85.webp"
     },
     {
       "id": 32,
@@ -1788,8 +1788,8 @@
         "barcode": "9835034508303",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/32_88.webp"],
-      "thumbnail": "http://localhost:5000/api/images/32_87.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/32_88.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/32_87.webp"
     },
     {
       "id": 33,
@@ -1842,8 +1842,8 @@
         "barcode": "2206629068605",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/33_90.webp"],
-      "thumbnail": "http://localhost:5000/api/images/33_89.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/33_90.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/33_89.webp"
     },
     {
       "id": 34,
@@ -1896,8 +1896,8 @@
         "barcode": "8572637994159",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/34_92.webp"],
-      "thumbnail": "http://localhost:5000/api/images/34_91.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/34_92.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/34_91.webp"
     },
     {
       "id": 35,
@@ -1950,8 +1950,8 @@
         "barcode": "3590399655074",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/35_94.webp"],
-      "thumbnail": "http://localhost:5000/api/images/35_93.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/35_94.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/35_93.webp"
     },
     {
       "id": 36,
@@ -2004,8 +2004,8 @@
         "barcode": "0435397154434",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/36_96.webp"],
-      "thumbnail": "http://localhost:5000/api/images/36_95.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/36_96.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/36_95.webp"
     },
     {
       "id": 37,
@@ -2058,8 +2058,8 @@
         "barcode": "4716374115631",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/37_97.webp"],
-      "thumbnail": "http://localhost:5000/api/images/37_98.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/37_97.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/37_98.webp"
     },
     {
       "id": 38,
@@ -2112,8 +2112,8 @@
         "barcode": "7339757397015",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/38_100.webp"],
-      "thumbnail": "http://localhost:5000/api/images/38_99.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/38_100.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/38_99.webp"
     },
     {
       "id": 39,
@@ -2166,8 +2166,8 @@
         "barcode": "2991169581178",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/39_102.webp"],
-      "thumbnail": "http://localhost:5000/api/images/39_101.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/39_102.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/39_101.webp"
     },
     {
       "id": 40,
@@ -2220,8 +2220,8 @@
         "barcode": "0792647462295",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/40_103.webp"],
-      "thumbnail": "http://localhost:5000/api/images/40_104.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/40_103.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/40_104.webp"
     },
     {
       "id": 41,
@@ -2275,10 +2275,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/41_107.webp",
-        "http://localhost:5000/api/images/41_106.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_107.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_106.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/41_105.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/41_105.webp"
     },
     {
       "id": 42,
@@ -2331,8 +2331,8 @@
         "barcode": "2409829645213",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/42_109.webp"],
-      "thumbnail": "http://localhost:5000/api/images/42_108.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/42_109.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/42_108.webp"
     },
     {
       "id": 43,
@@ -2386,11 +2386,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/43_113.webp",
-        "http://localhost:5000/api/images/43_111.webp",
-        "http://localhost:5000/api/images/43_112.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_113.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_111.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_112.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/43_110.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/43_110.webp"
     },
     {
       "id": 44,
@@ -2443,8 +2443,8 @@
         "barcode": "5398738320864",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/44_115.webp"],
-      "thumbnail": "http://localhost:5000/api/images/44_114.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/44_115.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/44_114.webp"
     },
     {
       "id": 45,
@@ -2498,11 +2498,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/45_118.webp",
-        "http://localhost:5000/api/images/45_117.webp",
-        "http://localhost:5000/api/images/45_119.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_118.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_117.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_119.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/45_116.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/45_116.webp"
     },
     {
       "id": 46,
@@ -2556,12 +2556,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/46_121.webp",
-        "http://localhost:5000/api/images/46_122.webp",
-        "http://localhost:5000/api/images/46_123.webp",
-        "http://localhost:5000/api/images/46_124.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_121.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_122.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_123.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_124.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/46_120.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/46_120.webp"
     },
     {
       "id": 47,
@@ -2614,8 +2614,8 @@
         "barcode": "8806138916048",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/47_126.webp"],
-      "thumbnail": "http://localhost:5000/api/images/47_125.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/47_126.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/47_125.webp"
     },
     {
       "id": 48,
@@ -2668,8 +2668,8 @@
         "barcode": "3988181417733",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/48_128.webp"],
-      "thumbnail": "http://localhost:5000/api/images/48_127.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/48_128.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/48_127.webp"
     },
     {
       "id": 49,
@@ -2723,10 +2723,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/49_130.webp",
-        "http://localhost:5000/api/images/49_131.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_130.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_131.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/49_129.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/49_129.webp"
     },
     {
       "id": 50,
@@ -2779,8 +2779,8 @@
         "barcode": "3112495795209",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/50_133.webp"],
-      "thumbnail": "http://localhost:5000/api/images/50_132.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/50_133.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/50_132.webp"
     },
     {
       "id": 51,
@@ -2834,12 +2834,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/51_135.webp",
-        "http://localhost:5000/api/images/51_137.webp",
-        "http://localhost:5000/api/images/51_136.webp",
-        "http://localhost:5000/api/images/51_138.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_135.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_137.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_136.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_138.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/51_134.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/51_134.webp"
     },
     {
       "id": 52,
@@ -2892,8 +2892,8 @@
         "barcode": "1810862118199",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/52_140.webp"],
-      "thumbnail": "http://localhost:5000/api/images/52_139.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/52_140.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/52_139.webp"
     },
     {
       "id": 53,
@@ -2946,8 +2946,8 @@
         "barcode": "0085585730728",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/53_141.webp"],
-      "thumbnail": "http://localhost:5000/api/images/53_142.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/53_141.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/53_142.webp"
     },
     {
       "id": 54,
@@ -3000,8 +3000,8 @@
         "barcode": "2231952604189",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/54_144.webp"],
-      "thumbnail": "http://localhost:5000/api/images/54_143.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/54_144.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/54_143.webp"
     },
     {
       "id": 55,
@@ -3054,8 +3054,8 @@
         "barcode": "6456249953517",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/55_146.webp"],
-      "thumbnail": "http://localhost:5000/api/images/55_145.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/55_146.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/55_145.webp"
     },
     {
       "id": 56,
@@ -3109,12 +3109,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/56_149.webp",
-        "http://localhost:5000/api/images/56_148.webp",
-        "http://localhost:5000/api/images/56_147.webp",
-        "http://localhost:5000/api/images/56_151.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_149.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_148.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_147.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_151.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/56_150.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/56_150.webp"
     },
     {
       "id": 57,
@@ -3167,8 +3167,8 @@
         "barcode": "8181672477425",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/57_153.webp"],
-      "thumbnail": "http://localhost:5000/api/images/57_152.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/57_153.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/57_152.webp"
     },
     {
       "id": 58,
@@ -3221,8 +3221,8 @@
         "barcode": "2851192866410",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/58_155.webp"],
-      "thumbnail": "http://localhost:5000/api/images/58_154.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/58_155.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/58_154.webp"
     },
     {
       "id": 59,
@@ -3275,8 +3275,8 @@
         "barcode": "4900880403720",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/59_157.webp"],
-      "thumbnail": "http://localhost:5000/api/images/59_156.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/59_157.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/59_156.webp"
     },
     {
       "id": 60,
@@ -3329,8 +3329,8 @@
         "barcode": "2542647841284",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/60_158.webp"],
-      "thumbnail": "http://localhost:5000/api/images/60_159.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/60_158.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/60_159.webp"
     },
     {
       "id": 61,
@@ -3383,8 +3383,8 @@
         "barcode": "1980575898457",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/61_161.webp"],
-      "thumbnail": "http://localhost:5000/api/images/61_160.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/61_161.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/61_160.webp"
     },
     {
       "id": 62,
@@ -3437,8 +3437,8 @@
         "barcode": "9123541111825",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/62_163.webp"],
-      "thumbnail": "http://localhost:5000/api/images/62_162.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/62_163.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/62_162.webp"
     },
     {
       "id": 63,
@@ -3491,8 +3491,8 @@
         "barcode": "7119606190291",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/63_165.webp"],
-      "thumbnail": "http://localhost:5000/api/images/63_164.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/63_165.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/63_164.webp"
     },
     {
       "id": 64,
@@ -3545,8 +3545,8 @@
         "barcode": "2258278927819",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/64_166.webp"],
-      "thumbnail": "http://localhost:5000/api/images/64_167.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/64_166.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/64_167.webp"
     },
     {
       "id": 65,
@@ -3599,8 +3599,8 @@
         "barcode": "3287134465440",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/65_169.webp"],
-      "thumbnail": "http://localhost:5000/api/images/65_168.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/65_169.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/65_168.webp"
     },
     {
       "id": 66,
@@ -3654,12 +3654,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/66_171.webp",
-        "http://localhost:5000/api/images/66_173.webp",
-        "http://localhost:5000/api/images/66_172.webp",
-        "http://localhost:5000/api/images/66_174.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_171.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_173.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_172.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_174.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/66_170.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/66_170.webp"
     },
     {
       "id": 67,
@@ -3713,10 +3713,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/67_176.webp",
-        "http://localhost:5000/api/images/67_177.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_176.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_177.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/67_175.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/67_175.webp"
     },
     {
       "id": 68,
@@ -3769,8 +3769,8 @@
         "barcode": "5159803862015",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/68_179.webp"],
-      "thumbnail": "http://localhost:5000/api/images/68_178.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/68_179.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/68_178.webp"
     },
     {
       "id": 69,
@@ -3823,8 +3823,8 @@
         "barcode": "8084753475328",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/69_181.webp"],
-      "thumbnail": "http://localhost:5000/api/images/69_180.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/69_181.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/69_180.webp"
     },
     {
       "id": 70,
@@ -3877,8 +3877,8 @@
         "barcode": "1919888449594",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/70_183.webp"],
-      "thumbnail": "http://localhost:5000/api/images/70_182.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/70_183.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/70_182.webp"
     },
     {
       "id": 71,
@@ -3931,8 +3931,8 @@
         "barcode": "9757232943842",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/71_185.webp"],
-      "thumbnail": "http://localhost:5000/api/images/71_184.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/71_185.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/71_184.webp"
     },
     {
       "id": 72,
@@ -3985,8 +3985,8 @@
         "barcode": "4396291569672",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/72_187.webp"],
-      "thumbnail": "http://localhost:5000/api/images/72_186.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/72_187.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/72_186.webp"
     },
     {
       "id": 73,
@@ -4039,8 +4039,8 @@
         "barcode": "6149284465708",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/73_189.webp"],
-      "thumbnail": "http://localhost:5000/api/images/73_188.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/73_189.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/73_188.webp"
     },
     {
       "id": 74,
@@ -4093,8 +4093,8 @@
         "barcode": "7769627934740",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/74_191.webp"],
-      "thumbnail": "http://localhost:5000/api/images/74_190.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/74_191.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/74_190.webp"
     },
     {
       "id": 75,
@@ -4147,8 +4147,8 @@
         "barcode": "5239514403214",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/75_192.webp"],
-      "thumbnail": "http://localhost:5000/api/images/75_193.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/75_192.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/75_193.webp"
     },
     {
       "id": 76,
@@ -4201,8 +4201,8 @@
         "barcode": "6934305212813",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/76_195.webp"],
-      "thumbnail": "http://localhost:5000/api/images/76_194.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/76_195.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/76_194.webp"
     },
     {
       "id": 77,
@@ -4255,8 +4255,8 @@
         "barcode": "8946155386929",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/77_197.webp"],
-      "thumbnail": "http://localhost:5000/api/images/77_196.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/77_197.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/77_196.webp"
     },
     {
       "id": 78,
@@ -4311,11 +4311,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/78_198.webp",
-        "http://localhost:5000/api/images/78_200.webp",
-        "http://localhost:5000/api/images/78_201.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_198.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_200.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_201.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/78_199.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/78_199.webp"
     },
     {
       "id": 79,
@@ -4370,11 +4370,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/79_204.webp",
-        "http://localhost:5000/api/images/79_205.webp",
-        "http://localhost:5000/api/images/79_203.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_204.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_205.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_203.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/79_202.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/79_202.webp"
     },
     {
       "id": 80,
@@ -4429,11 +4429,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/80_207.webp",
-        "http://localhost:5000/api/images/80_208.webp",
-        "http://localhost:5000/api/images/80_209.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_207.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_208.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_209.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/80_206.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/80_206.webp"
     },
     {
       "id": 81,
@@ -4488,11 +4488,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/81_212.webp",
-        "http://localhost:5000/api/images/81_213.webp",
-        "http://localhost:5000/api/images/81_211.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_212.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_213.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_211.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/81_210.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/81_210.webp"
     },
     {
       "id": 82,
@@ -4547,11 +4547,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/82_215.webp",
-        "http://localhost:5000/api/images/82_217.webp",
-        "http://localhost:5000/api/images/82_216.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_215.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_217.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_216.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/82_214.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/82_214.webp"
     },
     {
       "id": 83,
@@ -4606,12 +4606,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/83_219.webp",
-        "http://localhost:5000/api/images/83_220.webp",
-        "http://localhost:5000/api/images/83_221.webp",
-        "http://localhost:5000/api/images/83_222.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_219.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_220.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_221.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_222.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/83_218.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/83_218.webp"
     },
     {
       "id": 84,
@@ -4666,12 +4666,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/84_224.webp",
-        "http://localhost:5000/api/images/84_225.webp",
-        "http://localhost:5000/api/images/84_227.webp",
-        "http://localhost:5000/api/images/84_226.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_224.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_225.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_227.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_226.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/84_223.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/84_223.webp"
     },
     {
       "id": 85,
@@ -4726,12 +4726,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/85_230.webp",
-        "http://localhost:5000/api/images/85_229.webp",
-        "http://localhost:5000/api/images/85_232.webp",
-        "http://localhost:5000/api/images/85_231.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_230.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_229.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_232.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_231.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/85_228.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/85_228.webp"
     },
     {
       "id": 86,
@@ -4786,12 +4786,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/86_234.webp",
-        "http://localhost:5000/api/images/86_235.webp",
-        "http://localhost:5000/api/images/86_237.webp",
-        "http://localhost:5000/api/images/86_236.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_234.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_235.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_237.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_236.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/86_233.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/86_233.webp"
     },
     {
       "id": 87,
@@ -4846,12 +4846,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/87_238.webp",
-        "http://localhost:5000/api/images/87_239.webp",
-        "http://localhost:5000/api/images/87_241.webp",
-        "http://localhost:5000/api/images/87_242.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_238.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_239.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_241.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_242.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/87_240.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/87_240.webp"
     },
     {
       "id": 88,
@@ -4906,12 +4906,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/88_245.webp",
-        "http://localhost:5000/api/images/88_244.webp",
-        "http://localhost:5000/api/images/88_247.webp",
-        "http://localhost:5000/api/images/88_246.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_245.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_244.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_247.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_246.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/88_243.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/88_243.webp"
     },
     {
       "id": 89,
@@ -4966,12 +4966,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/89_250.webp",
-        "http://localhost:5000/api/images/89_249.webp",
-        "http://localhost:5000/api/images/89_252.webp",
-        "http://localhost:5000/api/images/89_251.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_250.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_249.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_252.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_251.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/89_248.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/89_248.webp"
     },
     {
       "id": 90,
@@ -5026,12 +5026,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/90_254.webp",
-        "http://localhost:5000/api/images/90_255.webp",
-        "http://localhost:5000/api/images/90_257.webp",
-        "http://localhost:5000/api/images/90_256.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_254.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_255.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_257.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_256.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/90_253.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/90_253.webp"
     },
     {
       "id": 91,
@@ -5086,12 +5086,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/91_258.webp",
-        "http://localhost:5000/api/images/91_260.webp",
-        "http://localhost:5000/api/images/91_262.webp",
-        "http://localhost:5000/api/images/91_261.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_258.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_260.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_262.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_261.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/91_259.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/91_259.webp"
     },
     {
       "id": 92,
@@ -5146,12 +5146,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/92_263.webp",
-        "http://localhost:5000/api/images/92_264.webp",
-        "http://localhost:5000/api/images/92_267.webp",
-        "http://localhost:5000/api/images/92_266.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_263.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_264.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_267.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_266.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/92_265.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/92_265.webp"
     },
     {
       "id": 93,
@@ -5206,11 +5206,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/93_268.webp",
-        "http://localhost:5000/api/images/93_270.webp",
-        "http://localhost:5000/api/images/93_271.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_268.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_270.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_271.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/93_269.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/93_269.webp"
     },
     {
       "id": 94,
@@ -5265,11 +5265,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/94_274.webp",
-        "http://localhost:5000/api/images/94_273.webp",
-        "http://localhost:5000/api/images/94_275.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_274.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_273.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_275.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/94_272.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/94_272.webp"
     },
     {
       "id": 95,
@@ -5324,11 +5324,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/95_279.webp",
-        "http://localhost:5000/api/images/95_277.webp",
-        "http://localhost:5000/api/images/95_276.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_279.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_277.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_276.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/95_278.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/95_278.webp"
     },
     {
       "id": 96,
@@ -5383,11 +5383,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/96_283.webp",
-        "http://localhost:5000/api/images/96_282.webp",
-        "http://localhost:5000/api/images/96_281.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_283.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_282.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_281.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/96_280.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/96_280.webp"
     },
     {
       "id": 97,
@@ -5442,11 +5442,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/97_285.webp",
-        "http://localhost:5000/api/images/97_287.webp",
-        "http://localhost:5000/api/images/97_286.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_285.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_287.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_286.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/97_284.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/97_284.webp"
     },
     {
       "id": 98,
@@ -5501,11 +5501,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/98_288.webp",
-        "http://localhost:5000/api/images/98_290.webp",
-        "http://localhost:5000/api/images/98_291.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_288.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_290.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_291.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/98_289.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/98_289.webp"
     },
     {
       "id": 99,
@@ -5560,10 +5560,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/99_293.webp",
-        "http://localhost:5000/api/images/99_294.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_293.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_294.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/99_292.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/99_292.webp"
     },
     {
       "id": 100,
@@ -5618,11 +5618,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/100_298.webp",
-        "http://localhost:5000/api/images/100_297.webp",
-        "http://localhost:5000/api/images/100_296.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_298.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_297.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_296.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/100_295.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/100_295.webp"
     },
     {
       "id": 101,
@@ -5676,8 +5676,8 @@
         "barcode": "4062176053732",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/101_300.webp"],
-      "thumbnail": "http://localhost:5000/api/images/101_299.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/101_300.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/101_299.webp"
     },
     {
       "id": 102,
@@ -5731,8 +5731,8 @@
         "barcode": "3323662242939",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/102_301.webp"],
-      "thumbnail": "http://localhost:5000/api/images/102_302.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/102_301.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/102_302.webp"
     },
     {
       "id": 103,
@@ -5786,8 +5786,8 @@
         "barcode": "6135642608024",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/103_304.webp"],
-      "thumbnail": "http://localhost:5000/api/images/103_303.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/103_304.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/103_303.webp"
     },
     {
       "id": 104,
@@ -5842,10 +5842,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/104_307.webp",
-        "http://localhost:5000/api/images/104_306.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_307.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_306.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/104_305.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/104_305.webp"
     },
     {
       "id": 105,
@@ -5900,10 +5900,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/105_310.webp",
-        "http://localhost:5000/api/images/105_309.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_310.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_309.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/105_308.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/105_308.webp"
     },
     {
       "id": 106,
@@ -5958,11 +5958,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/106_314.webp",
-        "http://localhost:5000/api/images/106_312.webp",
-        "http://localhost:5000/api/images/106_311.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_314.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_312.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_311.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/106_313.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/106_313.webp"
     },
     {
       "id": 107,
@@ -6016,8 +6016,8 @@
         "barcode": "1741271692174",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/107_316.webp"],
-      "thumbnail": "http://localhost:5000/api/images/107_315.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/107_316.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/107_315.webp"
     },
     {
       "id": 108,
@@ -6072,12 +6072,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/108_317.webp",
-        "http://localhost:5000/api/images/108_319.webp",
-        "http://localhost:5000/api/images/108_320.webp",
-        "http://localhost:5000/api/images/108_321.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_317.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_319.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_320.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_321.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/108_318.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/108_318.webp"
     },
     {
       "id": 109,
@@ -6132,10 +6132,10 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/109_322.webp",
-        "http://localhost:5000/api/images/109_324.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_322.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_324.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/109_323.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/109_323.webp"
     },
     {
       "id": 110,
@@ -6189,8 +6189,8 @@
         "barcode": "4372781189895",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/110_326.webp"],
-      "thumbnail": "http://localhost:5000/api/images/110_325.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/110_326.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/110_325.webp"
     },
     {
       "id": 111,
@@ -6244,8 +6244,8 @@
         "barcode": "7063982050226",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/111_327.webp"],
-      "thumbnail": "http://localhost:5000/api/images/111_328.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/111_327.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/111_328.webp"
     },
     {
       "id": 112,
@@ -6299,8 +6299,8 @@
         "barcode": "1488782082307",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/112_330.webp"],
-      "thumbnail": "http://localhost:5000/api/images/112_329.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/112_330.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/112_329.webp"
     },
     {
       "id": 113,
@@ -6355,12 +6355,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/113_335.webp",
-        "http://localhost:5000/api/images/113_332.webp",
-        "http://localhost:5000/api/images/113_334.webp",
-        "http://localhost:5000/api/images/113_331.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_335.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_332.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_334.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_331.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/113_333.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/113_333.webp"
     },
     {
       "id": 114,
@@ -6415,12 +6415,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/114_338.webp",
-        "http://localhost:5000/api/images/114_339.webp",
-        "http://localhost:5000/api/images/114_337.webp",
-        "http://localhost:5000/api/images/114_336.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_338.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_339.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_337.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_336.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/114_340.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/114_340.webp"
     },
     {
       "id": 115,
@@ -6475,12 +6475,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/115_344.webp",
-        "http://localhost:5000/api/images/115_343.webp",
-        "http://localhost:5000/api/images/115_342.webp",
-        "http://localhost:5000/api/images/115_341.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_344.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_343.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_342.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_341.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/115_345.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/115_345.webp"
     },
     {
       "id": 116,
@@ -6535,12 +6535,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/116_348.webp",
-        "http://localhost:5000/api/images/116_349.webp",
-        "http://localhost:5000/api/images/116_347.webp",
-        "http://localhost:5000/api/images/116_346.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_348.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_349.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_347.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_346.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/116_350.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/116_350.webp"
     },
     {
       "id": 117,
@@ -6595,12 +6595,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/117_353.webp",
-        "http://localhost:5000/api/images/117_352.webp",
-        "http://localhost:5000/api/images/117_354.webp",
-        "http://localhost:5000/api/images/117_351.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_353.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_352.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_354.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_351.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/117_355.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/117_355.webp"
     },
     {
       "id": 118,
@@ -6655,11 +6655,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/118_356.webp",
-        "http://localhost:5000/api/images/118_357.webp",
-        "http://localhost:5000/api/images/118_358.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_356.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_357.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_358.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/118_359.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/118_359.webp"
     },
     {
       "id": 119,
@@ -6714,11 +6714,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/119_363.webp",
-        "http://localhost:5000/api/images/119_362.webp",
-        "http://localhost:5000/api/images/119_361.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_363.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_362.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_361.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/119_360.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/119_360.webp"
     },
     {
       "id": 120,
@@ -6773,11 +6773,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/120_365.webp",
-        "http://localhost:5000/api/images/120_367.webp",
-        "http://localhost:5000/api/images/120_366.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_365.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_367.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_366.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/120_364.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/120_364.webp"
     },
     {
       "id": 121,
@@ -6832,11 +6832,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/121_369.webp",
-        "http://localhost:5000/api/images/121_370.webp",
-        "http://localhost:5000/api/images/121_371.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_369.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_370.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_371.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/121_368.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/121_368.webp"
     },
     {
       "id": 122,
@@ -6891,11 +6891,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/122_372.webp",
-        "http://localhost:5000/api/images/122_374.webp",
-        "http://localhost:5000/api/images/122_375.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_372.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_374.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_375.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/122_373.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/122_373.webp"
     },
     {
       "id": 123,
@@ -6950,11 +6950,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/123_377.webp",
-        "http://localhost:5000/api/images/123_379.webp",
-        "http://localhost:5000/api/images/123_376.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_377.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_379.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_376.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/123_378.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/123_378.webp"
     },
     {
       "id": 124,
@@ -7009,11 +7009,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/124_383.webp",
-        "http://localhost:5000/api/images/124_382.webp",
-        "http://localhost:5000/api/images/124_381.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_383.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_382.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_381.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/124_380.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/124_380.webp"
     },
     {
       "id": 125,
@@ -7068,11 +7068,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/125_384.webp",
-        "http://localhost:5000/api/images/125_387.webp",
-        "http://localhost:5000/api/images/125_386.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_384.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_387.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_386.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/125_385.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/125_385.webp"
     },
     {
       "id": 126,
@@ -7127,11 +7127,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/126_388.webp",
-        "http://localhost:5000/api/images/126_390.webp",
-        "http://localhost:5000/api/images/126_391.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_388.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_390.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_391.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/126_389.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/126_389.webp"
     },
     {
       "id": 127,
@@ -7186,12 +7186,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/127_395.webp",
-        "http://localhost:5000/api/images/127_392.webp",
-        "http://localhost:5000/api/images/127_394.webp",
-        "http://localhost:5000/api/images/127_396.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_395.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_392.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_394.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_396.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/127_393.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/127_393.webp"
     },
     {
       "id": 128,
@@ -7246,11 +7246,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/128_400.webp",
-        "http://localhost:5000/api/images/128_397.webp",
-        "http://localhost:5000/api/images/128_399.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_400.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_397.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_399.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/128_398.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/128_398.webp"
     },
     {
       "id": 129,
@@ -7305,11 +7305,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/129_403.webp",
-        "http://localhost:5000/api/images/129_404.webp",
-        "http://localhost:5000/api/images/129_401.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_403.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_404.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_401.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/129_402.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/129_402.webp"
     },
     {
       "id": 130,
@@ -7364,11 +7364,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/130_408.webp",
-        "http://localhost:5000/api/images/130_407.webp",
-        "http://localhost:5000/api/images/130_406.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_408.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_407.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_406.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/130_405.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/130_405.webp"
     },
     {
       "id": 131,
@@ -7423,11 +7423,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/131_410.webp",
-        "http://localhost:5000/api/images/131_412.webp",
-        "http://localhost:5000/api/images/131_411.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_410.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_412.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_411.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/131_409.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/131_409.webp"
     },
     {
       "id": 132,
@@ -7482,11 +7482,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/132_413.webp",
-        "http://localhost:5000/api/images/132_415.webp",
-        "http://localhost:5000/api/images/132_416.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_413.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_415.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_416.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/132_414.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/132_414.webp"
     },
     {
       "id": 133,
@@ -7541,11 +7541,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/133_418.webp",
-        "http://localhost:5000/api/images/133_419.webp",
-        "http://localhost:5000/api/images/133_417.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_418.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_419.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_417.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/133_420.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/133_420.webp"
     },
     {
       "id": 134,
@@ -7600,11 +7600,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/134_424.webp",
-        "http://localhost:5000/api/images/134_423.webp",
-        "http://localhost:5000/api/images/134_421.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_424.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_423.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_421.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/134_422.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/134_422.webp"
     },
     {
       "id": 135,
@@ -7659,11 +7659,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/135_426.webp",
-        "http://localhost:5000/api/images/135_428.webp",
-        "http://localhost:5000/api/images/135_427.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_426.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_428.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_427.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/135_425.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/135_425.webp"
     },
     {
       "id": 136,
@@ -7718,11 +7718,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/136_430.webp",
-        "http://localhost:5000/api/images/136_432.webp",
-        "http://localhost:5000/api/images/136_431.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_430.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_432.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_431.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/136_429.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/136_429.webp"
     },
     {
       "id": 137,
@@ -7775,8 +7775,8 @@
         "barcode": "0984311727547",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/137_434.webp"],
-      "thumbnail": "http://localhost:5000/api/images/137_433.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/137_434.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/137_433.webp"
     },
     {
       "id": 138,
@@ -7829,8 +7829,8 @@
         "barcode": "8981184448425",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/138_436.webp"],
-      "thumbnail": "http://localhost:5000/api/images/138_435.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/138_436.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/138_435.webp"
     },
     {
       "id": 139,
@@ -7884,11 +7884,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/139_437.webp",
-        "http://localhost:5000/api/images/139_439.webp",
-        "http://localhost:5000/api/images/139_440.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_437.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_439.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_440.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/139_438.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/139_438.webp"
     },
     {
       "id": 140,
@@ -7941,8 +7941,8 @@
         "barcode": "3219724919696",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/140_441.webp"],
-      "thumbnail": "http://localhost:5000/api/images/140_442.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/140_441.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/140_442.webp"
     },
     {
       "id": 141,
@@ -7995,8 +7995,8 @@
         "barcode": "6916173283925",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/141_444.webp"],
-      "thumbnail": "http://localhost:5000/api/images/141_443.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/141_444.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/141_443.webp"
     },
     {
       "id": 142,
@@ -8049,8 +8049,8 @@
         "barcode": "0027512125380",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/142_446.webp"],
-      "thumbnail": "http://localhost:5000/api/images/142_445.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/142_446.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/142_445.webp"
     },
     {
       "id": 143,
@@ -8103,8 +8103,8 @@
         "barcode": "1225217575490",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/143_447.webp"],
-      "thumbnail": "http://localhost:5000/api/images/143_448.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/143_447.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/143_448.webp"
     },
     {
       "id": 144,
@@ -8158,12 +8158,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/144_449.webp",
-        "http://localhost:5000/api/images/144_453.webp",
-        "http://localhost:5000/api/images/144_452.webp",
-        "http://localhost:5000/api/images/144_451.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_449.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_453.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_452.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_451.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/144_450.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/144_450.webp"
     },
     {
       "id": 145,
@@ -8216,8 +8216,8 @@
         "barcode": "9514466946651",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/145_455.webp"],
-      "thumbnail": "http://localhost:5000/api/images/145_454.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/145_455.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/145_454.webp"
     },
     {
       "id": 146,
@@ -8270,8 +8270,8 @@
         "barcode": "5360325610488",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/146_456.webp"],
-      "thumbnail": "http://localhost:5000/api/images/146_457.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/146_456.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/146_457.webp"
     },
     {
       "id": 147,
@@ -8324,8 +8324,8 @@
         "barcode": "7605305555987",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/147_458.webp"],
-      "thumbnail": "http://localhost:5000/api/images/147_459.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/147_458.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/147_459.webp"
     },
     {
       "id": 148,
@@ -8378,8 +8378,8 @@
         "barcode": "6940117186155",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/148_461.webp"],
-      "thumbnail": "http://localhost:5000/api/images/148_460.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/148_461.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/148_460.webp"
     },
     {
       "id": 149,
@@ -8432,8 +8432,8 @@
         "barcode": "4196059523236",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/149_462.webp"],
-      "thumbnail": "http://localhost:5000/api/images/149_463.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/149_462.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/149_463.webp"
     },
     {
       "id": 150,
@@ -8486,8 +8486,8 @@
         "barcode": "7296388268295",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/150_464.webp"],
-      "thumbnail": "http://localhost:5000/api/images/150_465.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/150_464.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/150_465.webp"
     },
     {
       "id": 151,
@@ -8540,8 +8540,8 @@
         "barcode": "2793132647969",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/151_466.webp"],
-      "thumbnail": "http://localhost:5000/api/images/151_467.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/151_466.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/151_467.webp"
     },
     {
       "id": 152,
@@ -8594,8 +8594,8 @@
         "barcode": "5611498376196",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/152_469.webp"],
-      "thumbnail": "http://localhost:5000/api/images/152_468.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/152_469.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/152_468.webp"
     },
     {
       "id": 153,
@@ -8648,8 +8648,8 @@
         "barcode": "6348576170594",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["http://localhost:5000/api/images/153_471.webp"],
-      "thumbnail": "http://localhost:5000/api/images/153_470.webp"
+      "images": ["https://ecommercebackend-production-cae7.up.railway.app/api/images/153_471.webp"],
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/153_470.webp"
     },
     {
       "id": 154,
@@ -8704,11 +8704,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/154_475.webp",
-        "http://localhost:5000/api/images/154_472.webp",
-        "http://localhost:5000/api/images/154_473.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_475.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_472.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_473.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/154_474.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/154_474.webp"
     },
     {
       "id": 155,
@@ -8763,11 +8763,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/155_478.webp",
-        "http://localhost:5000/api/images/155_477.webp",
-        "http://localhost:5000/api/images/155_476.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_478.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_477.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_476.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/155_479.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/155_479.webp"
     },
     {
       "id": 156,
@@ -8822,11 +8822,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/156_483.webp",
-        "http://localhost:5000/api/images/156_482.webp",
-        "http://localhost:5000/api/images/156_481.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_483.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_482.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_481.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/156_480.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/156_480.webp"
     },
     {
       "id": 157,
@@ -8881,11 +8881,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/157_485.webp",
-        "http://localhost:5000/api/images/157_487.webp",
-        "http://localhost:5000/api/images/157_486.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_485.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_487.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_486.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/157_484.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/157_484.webp"
     },
     {
       "id": 158,
@@ -8940,11 +8940,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/158_488.webp",
-        "http://localhost:5000/api/images/158_489.webp",
-        "http://localhost:5000/api/images/158_491.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_488.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_489.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_491.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/158_490.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/158_490.webp"
     },
     {
       "id": 159,
@@ -8999,12 +8999,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/159_492.webp",
-        "http://localhost:5000/api/images/159_493.webp",
-        "http://localhost:5000/api/images/159_494.webp",
-        "http://localhost:5000/api/images/159_496.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_492.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_493.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_494.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_496.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/159_495.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/159_495.webp"
     },
     {
       "id": 160,
@@ -9059,12 +9059,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/160_499.webp",
-        "http://localhost:5000/api/images/160_497.webp",
-        "http://localhost:5000/api/images/160_498.webp",
-        "http://localhost:5000/api/images/160_501.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_499.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_497.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_498.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_501.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/160_500.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/160_500.webp"
     },
     {
       "id": 161,
@@ -9119,12 +9119,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/161_502.webp",
-        "http://localhost:5000/api/images/161_504.webp",
-        "http://localhost:5000/api/images/161_503.webp",
-        "http://localhost:5000/api/images/161_506.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_502.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_504.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_503.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_506.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/161_505.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/161_505.webp"
     },
     {
       "id": 162,
@@ -9178,12 +9178,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/162_509.webp",
-        "http://localhost:5000/api/images/162_508.webp",
-        "http://localhost:5000/api/images/162_510.webp",
-        "http://localhost:5000/api/images/162_511.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_509.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_508.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_510.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_511.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/162_507.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/162_507.webp"
     },
     {
       "id": 163,
@@ -9237,12 +9237,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/163_512.webp",
-        "http://localhost:5000/api/images/163_513.webp",
-        "http://localhost:5000/api/images/163_515.webp",
-        "http://localhost:5000/api/images/163_516.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_512.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_513.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_515.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_516.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/163_514.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/163_514.webp"
     },
     {
       "id": 164,
@@ -9296,12 +9296,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/164_517.webp",
-        "http://localhost:5000/api/images/164_519.webp",
-        "http://localhost:5000/api/images/164_520.webp",
-        "http://localhost:5000/api/images/164_521.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_517.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_519.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_520.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_521.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/164_518.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/164_518.webp"
     },
     {
       "id": 165,
@@ -9355,12 +9355,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/165_522.webp",
-        "http://localhost:5000/api/images/165_525.webp",
-        "http://localhost:5000/api/images/165_524.webp",
-        "http://localhost:5000/api/images/165_526.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_522.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_525.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_524.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_526.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/165_523.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/165_523.webp"
     },
     {
       "id": 166,
@@ -9414,12 +9414,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/166_527.webp",
-        "http://localhost:5000/api/images/166_529.webp",
-        "http://localhost:5000/api/images/166_530.webp",
-        "http://localhost:5000/api/images/166_531.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_527.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_529.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_530.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_531.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/166_528.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/166_528.webp"
     },
     {
       "id": 167,
@@ -9474,14 +9474,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/167_533.webp",
-        "http://localhost:5000/api/images/167_535.webp",
-        "http://localhost:5000/api/images/167_534.webp",
-        "http://localhost:5000/api/images/167_538.webp",
-        "http://localhost:5000/api/images/167_537.webp",
-        "http://localhost:5000/api/images/167_536.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_533.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_535.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_534.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_538.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_537.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_536.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/167_532.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/167_532.webp"
     },
     {
       "id": 168,
@@ -9536,14 +9536,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/168_540.webp",
-        "http://localhost:5000/api/images/168_542.webp",
-        "http://localhost:5000/api/images/168_544.webp",
-        "http://localhost:5000/api/images/168_545.webp",
-        "http://localhost:5000/api/images/168_543.webp",
-        "http://localhost:5000/api/images/168_541.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_540.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_542.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_544.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_545.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_543.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_541.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/168_539.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/168_539.webp"
     },
     {
       "id": 169,
@@ -9598,14 +9598,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/169_549.webp",
-        "http://localhost:5000/api/images/169_550.webp",
-        "http://localhost:5000/api/images/169_547.webp",
-        "http://localhost:5000/api/images/169_546.webp",
-        "http://localhost:5000/api/images/169_552.webp",
-        "http://localhost:5000/api/images/169_551.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_549.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_550.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_547.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_546.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_552.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_551.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/169_548.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/169_548.webp"
     },
     {
       "id": 170,
@@ -9660,14 +9660,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/170_553.webp",
-        "http://localhost:5000/api/images/170_555.webp",
-        "http://localhost:5000/api/images/170_557.webp",
-        "http://localhost:5000/api/images/170_558.webp",
-        "http://localhost:5000/api/images/170_559.webp",
-        "http://localhost:5000/api/images/170_556.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_553.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_555.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_557.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_558.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_559.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_556.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/170_554.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/170_554.webp"
     },
     {
       "id": 171,
@@ -9722,14 +9722,14 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/171_564.webp",
-        "http://localhost:5000/api/images/171_565.webp",
-        "http://localhost:5000/api/images/171_563.webp",
-        "http://localhost:5000/api/images/171_562.webp",
-        "http://localhost:5000/api/images/171_561.webp",
-        "http://localhost:5000/api/images/171_566.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_564.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_565.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_563.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_562.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_561.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_566.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/171_560.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/171_560.webp"
     },
     {
       "id": 172,
@@ -9784,11 +9784,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/172_569.webp",
-        "http://localhost:5000/api/images/172_568.webp",
-        "http://localhost:5000/api/images/172_570.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_569.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_568.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_570.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/172_567.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/172_567.webp"
     },
     {
       "id": 173,
@@ -9843,11 +9843,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/173_574.webp",
-        "http://localhost:5000/api/images/173_571.webp",
-        "http://localhost:5000/api/images/173_573.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_574.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_571.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_573.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/173_572.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/173_572.webp"
     },
     {
       "id": 174,
@@ -9902,11 +9902,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/174_577.webp",
-        "http://localhost:5000/api/images/174_576.webp",
-        "http://localhost:5000/api/images/174_578.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_577.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_576.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_578.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/174_575.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/174_575.webp"
     },
     {
       "id": 175,
@@ -9961,11 +9961,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/175_580.webp",
-        "http://localhost:5000/api/images/175_582.webp",
-        "http://localhost:5000/api/images/175_581.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_580.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_582.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_581.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/175_579.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/175_579.webp"
     },
     {
       "id": 176,
@@ -10020,11 +10020,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/176_585.webp",
-        "http://localhost:5000/api/images/176_584.webp",
-        "http://localhost:5000/api/images/176_586.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_585.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_584.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_586.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/176_583.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/176_583.webp"
     },
     {
       "id": 177,
@@ -10078,12 +10078,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/177_588.webp",
-        "http://localhost:5000/api/images/177_589.webp",
-        "http://localhost:5000/api/images/177_590.webp",
-        "http://localhost:5000/api/images/177_591.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_588.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_589.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_590.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_591.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/177_587.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/177_587.webp"
     },
     {
       "id": 178,
@@ -10137,12 +10137,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/178_592.webp",
-        "http://localhost:5000/api/images/178_595.webp",
-        "http://localhost:5000/api/images/178_593.webp",
-        "http://localhost:5000/api/images/178_596.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_592.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_595.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_593.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_596.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/178_594.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/178_594.webp"
     },
     {
       "id": 179,
@@ -10196,12 +10196,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/179_598.webp",
-        "http://localhost:5000/api/images/179_597.webp",
-        "http://localhost:5000/api/images/179_600.webp",
-        "http://localhost:5000/api/images/179_601.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_598.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_597.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_600.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_601.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/179_599.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/179_599.webp"
     },
     {
       "id": 180,
@@ -10255,12 +10255,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/180_605.webp",
-        "http://localhost:5000/api/images/180_603.webp",
-        "http://localhost:5000/api/images/180_604.webp",
-        "http://localhost:5000/api/images/180_606.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_605.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_603.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_604.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_606.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/180_602.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/180_602.webp"
     },
     {
       "id": 181,
@@ -10314,12 +10314,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/181_607.webp",
-        "http://localhost:5000/api/images/181_608.webp",
-        "http://localhost:5000/api/images/181_610.webp",
-        "http://localhost:5000/api/images/181_611.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_607.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_608.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_610.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_611.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/181_609.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/181_609.webp"
     },
     {
       "id": 182,
@@ -10373,11 +10373,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/182_612.webp",
-        "http://localhost:5000/api/images/182_613.webp",
-        "http://localhost:5000/api/images/182_615.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_612.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_613.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_615.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/182_614.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/182_614.webp"
     },
     {
       "id": 183,
@@ -10431,11 +10431,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/183_618.webp",
-        "http://localhost:5000/api/images/183_617.webp",
-        "http://localhost:5000/api/images/183_616.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_618.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_617.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_616.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/183_619.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/183_619.webp"
     },
     {
       "id": 184,
@@ -10489,11 +10489,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/184_623.webp",
-        "http://localhost:5000/api/images/184_622.webp",
-        "http://localhost:5000/api/images/184_621.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_623.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_622.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_621.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/184_620.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/184_620.webp"
     },
     {
       "id": 185,
@@ -10548,12 +10548,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/185_625.webp",
-        "http://localhost:5000/api/images/185_628.webp",
-        "http://localhost:5000/api/images/185_627.webp",
-        "http://localhost:5000/api/images/185_626.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_625.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_628.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_627.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_626.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/185_624.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/185_624.webp"
     },
     {
       "id": 186,
@@ -10608,12 +10608,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/186_630.webp",
-        "http://localhost:5000/api/images/186_633.webp",
-        "http://localhost:5000/api/images/186_632.webp",
-        "http://localhost:5000/api/images/186_631.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_630.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_633.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_632.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_631.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/186_629.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/186_629.webp"
     },
     {
       "id": 187,
@@ -10668,12 +10668,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/187_635.webp",
-        "http://localhost:5000/api/images/187_637.webp",
-        "http://localhost:5000/api/images/187_638.webp",
-        "http://localhost:5000/api/images/187_636.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_635.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_637.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_638.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_636.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/187_634.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/187_634.webp"
     },
     {
       "id": 188,
@@ -10728,12 +10728,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/188_640.webp",
-        "http://localhost:5000/api/images/188_643.webp",
-        "http://localhost:5000/api/images/188_642.webp",
-        "http://localhost:5000/api/images/188_641.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_640.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_643.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_642.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_641.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/188_639.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/188_639.webp"
     },
     {
       "id": 189,
@@ -10788,12 +10788,12 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/189_645.webp",
-        "http://localhost:5000/api/images/189_648.webp",
-        "http://localhost:5000/api/images/189_647.webp",
-        "http://localhost:5000/api/images/189_646.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_645.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_648.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_647.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_646.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/189_644.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/189_644.webp"
     },
     {
       "id": 190,
@@ -10848,11 +10848,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/190_650.webp",
-        "http://localhost:5000/api/images/190_652.webp",
-        "http://localhost:5000/api/images/190_651.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_650.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_652.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_651.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/190_649.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/190_649.webp"
     },
     {
       "id": 191,
@@ -10907,11 +10907,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/191_653.webp",
-        "http://localhost:5000/api/images/191_654.webp",
-        "http://localhost:5000/api/images/191_656.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_653.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_654.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_656.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/191_655.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/191_655.webp"
     },
     {
       "id": 192,
@@ -10966,11 +10966,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/192_657.webp",
-        "http://localhost:5000/api/images/192_660.webp",
-        "http://localhost:5000/api/images/192_659.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_657.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_660.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_659.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/192_658.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/192_658.webp"
     },
     {
       "id": 193,
@@ -11025,11 +11025,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/193_662.webp",
-        "http://localhost:5000/api/images/193_664.webp",
-        "http://localhost:5000/api/images/193_661.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_662.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_664.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_661.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/193_663.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/193_663.webp"
     },
     {
       "id": 194,
@@ -11084,11 +11084,11 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "http://localhost:5000/api/images/194_667.webp",
-        "http://localhost:5000/api/images/194_668.webp",
-        "http://localhost:5000/api/images/194_666.webp"
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_667.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_668.webp",
+        "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_666.webp"
       ],
-      "thumbnail": "http://localhost:5000/api/images/194_665.webp"
+      "thumbnail": "https://ecommercebackend-production-cae7.up.railway.app/api/images/194_665.webp"
     }
   ],
   "total": 194,

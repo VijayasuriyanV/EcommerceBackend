@@ -1,12 +1,14 @@
 const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
+// const BASE_URL = "https://ecommercebackend-production-cae7.up.railway.app/";
 
 const app = express();
 const PORT = 5000;
-
+// const bckend images
 app.use(cors());
 app.use(express.json());
+
 const path = require("path");
 app.use("/api/images", express.static(path.join(__dirname, "images")));
 
